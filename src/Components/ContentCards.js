@@ -12,6 +12,10 @@ function ContentCards() {
         <Row>
           <Col className="col-3">
             <Card className="border-3">
+              <img
+                className="w-100"
+                src="https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
+              ></img>
               <Card.Body class="card-body">
                 <h5 class="card-title">Game Titles</h5>
                 <p class="card-text">

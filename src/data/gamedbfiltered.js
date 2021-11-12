@@ -1,12 +1,4 @@
-import React from "react";
-
-function gamedbfiltered() {
-  return gameData;
-}
-
-export default gamedbfiltered;
-
-const gameData = [
+default export const data = [
   ({
     _id: {
       $oid: "618d71d4fffb006770d560f1",

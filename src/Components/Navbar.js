@@ -8,8 +8,8 @@ function Navbar() {
     <>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">
-            Navbar
+          <a class="navbar-brand btn btn-secondary" href="./GamePage">
+            GamePage
           </a>
           <button
             class="navbar-toggler"
@@ -25,7 +25,7 @@ function Navbar() {
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">
+                <a class="nav-link active" aria-current="page" href="/">
                   Home
                 </a>
               </li>
