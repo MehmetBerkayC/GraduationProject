@@ -6,7 +6,7 @@ let gameinfo = [];
 let counter = 0;
 
 let traverse = () => {
-  // Make the JSON data 1 Dimensional
+  // Cut the JSON data into N games
   for (let i = 0; i < 50; i++) {
     gameinfo[counter] = gamedata[i];
     counter++;
@@ -18,7 +18,7 @@ let traverse = () => {
   }
 };
 
-let responsiveTraverse = () => {}; // fill the load more algorithm
+let responsiveTraverse = () => {}; // fill the load morealgorithm
 
 function ContentCards() {
   return (
@@ -47,7 +47,9 @@ function ContentCards() {
                           </div>
                           <p className="card-text">
                             Rating: {gamedata.rating} <br />
-                            Suggestions count: {gamedata.suggestions_count}
+                            How many rated: {gamedata.ratings_count} <br />
+                            How many suggested: {gamedata.suggestions_count}
+                            <br />
                             <p>
                               Genres:
                               {gamedata.genres.map((gamedata) => {
