@@ -1,75 +1,28 @@
-import { render } from "@testing-library/react";
 import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 
-//const data = require("../data/gamedbfiltered.json");
 const gamedata = require("../data/gamedatafinal.json");
 let gameinfo = [];
 let counter = 0;
 
 let traverse = () => {
   // Make the JSON data 1 Dimensional
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 50; i++) {
     gameinfo[counter] = gamedata[i];
     counter++;
   }
 
-  //   // Display what you did
-  //   for (let i = 0; i < gameinfo.length; i++) {
-  //     console.log(gameinfo[i]);
-  //   }
+  // Display what you did
+  for (let i = 0; i < gameinfo.length; i++) {
+    console.log(gameinfo[i]);
+  }
 };
 
-// // Render 4 Cards each row
-// let renderCols = (gamedata, index) => {
-//   return (
-//     <>
-//       <Col sm={4}>
-//         <Card className="border-3" key={index}>
-//           <Card.Img className="w-100" src={gamedata.background_image} />
-//           <Card.Body class="card-body">
-//             <h5 className="card-title">{gamedata.name}</h5>
-//             <p className="card-text">
-//               Rating: {gamedata.rating} <br />
-//               Genres: <br />
-//               Suggestions count: {gamedata.suggestions_count}
-//             </p>
-//             <Button className="btn btn-primary">
-//               Add Href to these buttons or delete
-//             </Button>
-//           </Card.Body>
-//         </Card>
-//       </Col>
-//     </>
-//   );
-// };
-
-// let renderCard = (gameinfo, index) => {
-//   return (
-//     <>
-//       <Col className="col-3">
-//         <Card className="border-3" key={index}>
-//           <Card.Img className="w-100" src={gameinfo.background_image} />
-//           <Card.Body class="card-body">
-//             <h5 className="card-title">{gameinfo.name}</h5>
-//             <p className="card-text">
-//               Rating: {gameinfo.rating} <br />
-//               Genres: <br />
-//               Ratings count: {gameinfo.ratings_count}
-//             </p>
-//             <Button className="btn btn-primary">
-//               Add Href to these buttons or delete
-//             </Button>
-//           </Card.Body>
-//         </Card>
-//       </Col>
-//     </>
-//   );
-// };
+let responsiveTraverse = () => {};
 
 function ContentCards() {
   return (
-    <div>
+    <div className="m-auto bg-success">
       <p className="text-center mt-2">
         This is a special message: Make sure you either duplicate the cards if
         figured how to use the json files or restart the design
@@ -78,26 +31,36 @@ function ContentCards() {
 
       <Container className="mt-2">
         <div>
-          <Row>
+          <Row className="m-auto">
             {gameinfo.map((gamedata, index) => {
               return (
                 <>
-                  <Col className="mt-3 col-3">
-                    <Card className="border-3" key={index}>
+                  <Col className="my-2 col-3 m-auto">
+                    <Card className="border-3 shadow m-auto" key={index}>
                       <Card.Img
-                        className="w-100"
+                        style={{ height: "10.5rem" }}
                         src={gamedata.background_image}
                       />
-                      <Card.Body class="card-body">
-                        <h5 className="card-title">{gamedata.name}</h5>
+                      <Card.Body class="card-body my-1">
+                        <div className="d-flex justify-content-center m-auto">
+                          <h5 className="card-title">{gamedata.name}</h5>
+                        </div>
                         <p className="card-text">
                           Rating: {gamedata.rating} <br />
-                          Genres: <br />
                           Suggestions count: {gamedata.suggestions_count}
+                          <p>
+                            Genres:
+                            {gamedata.genres.map((gamedata) => {
+                              return <>{" " + gamedata.name}</>;
+                            })}
+                          </p>
                         </p>
-                        <Button className="btn btn-primary">
-                          Add Href to these buttons or delete
-                        </Button>
+
+                        <div className="d-flex justify-content-center m-auto">
+                          <Button className="btn btn-secondary m-auto shadow rounded-pill">
+                            Add Href to these buttons
+                          </Button>
+                        </div>
                       </Card.Body>
                     </Card>
                   </Col>
@@ -107,6 +70,18 @@ function ContentCards() {
           </Row>
         </div>
       </Container>
+      <div className="d-flex justify-content-center m-auto">
+        <Button
+          className="btn btn-dark m-auto w-100 rounded-0"
+          onClick={{ responsiveTraverse }}
+        >
+          <span>
+            <h5 className="d-flex justify-content-center m-auto">
+              Show More Games
+            </h5>
+          </span>
+        </Button>
+      </div>
     </div>
   );
 }

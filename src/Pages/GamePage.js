@@ -1,5 +1,4 @@
 import React from "react";
-import { Card } from "react-bootstrap";
 import Navbar from "../Components/Navbar";
 
 function GamePage() {
@@ -7,8 +6,12 @@ function GamePage() {
     <div>
       <Navbar />
 
-      <div className="m-2 p-2">
-        <p>Oh hi there!</p>
+      <div>
+        <p className="mt-2">Here</p>
+      </div>
+
+      <div>
+        <p> Hi there!</p>
       </div>
     </div>
   );
