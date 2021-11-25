@@ -18,7 +18,7 @@ let traverse = () => {
   }
 };
 
-let responsiveTraverse = () => {};
+let responsiveTraverse = () => {}; // fill the load more algorithm
 
 function ContentCards() {
   return (
@@ -28,59 +28,60 @@ function ContentCards() {
         figured how to use the json files or restart the design
       </p>
       <div>{traverse()}</div>
-
-      <Container className="mt-2">
-        <div>
-          <Row className="m-auto">
-            {gameinfo.map((gamedata, index) => {
-              return (
-                <>
-                  <Col className="my-2 col-3 m-auto">
-                    <Card className="border-3 shadow m-auto" key={index}>
-                      <Card.Img
-                        style={{ height: "10.5rem" }}
-                        src={gamedata.background_image}
-                      />
-                      <Card.Body class="card-body my-1">
-                        <div className="d-flex justify-content-center m-auto">
-                          <h5 className="card-title">{gamedata.name}</h5>
-                        </div>
-                        <p className="card-text">
-                          Rating: {gamedata.rating} <br />
-                          Suggestions count: {gamedata.suggestions_count}
-                          <p>
-                            Genres:
-                            {gamedata.genres.map((gamedata) => {
-                              return <>{" " + gamedata.name}</>;
-                            })}
+      <div className="m-auto">
+        <Container style={{ marginLeft: "30rem" }} className="mt-auto">
+          <div>
+            <Row className="m-auto">
+              {gameinfo.map((gamedata, index) => {
+                return (
+                  <>
+                    <Col className="my-2 col-3 m-auto">
+                      <Card className="border-3 shadow m-auto" key={index}>
+                        <Card.Img
+                          style={{ height: "10.5rem" }}
+                          src={gamedata.background_image}
+                        />
+                        <Card.Body class="card-body my-1">
+                          <div className="d-flex justify-content-center m-auto">
+                            <h5 className="card-title">{gamedata.name}</h5>
+                          </div>
+                          <p className="card-text">
+                            Rating: {gamedata.rating} <br />
+                            Suggestions count: {gamedata.suggestions_count}
+                            <p>
+                              Genres:
+                              {gamedata.genres.map((gamedata) => {
+                                return <>{" " + gamedata.name}</>;
+                              })}
+                            </p>
                           </p>
-                        </p>
 
-                        <div className="d-flex justify-content-center m-auto">
-                          <Button className="btn btn-secondary m-auto shadow rounded-pill">
-                            Add Href to these buttons
-                          </Button>
-                        </div>
-                      </Card.Body>
-                    </Card>
-                  </Col>
-                </>
-              );
-            })}
-          </Row>
+                          <div className="d-flex justify-content-center m-auto">
+                            <Button className="btn btn-secondary m-auto shadow rounded-pill">
+                              Add Href to these buttons
+                            </Button>
+                          </div>
+                        </Card.Body>
+                      </Card>
+                    </Col>
+                  </>
+                );
+              })}
+            </Row>
+          </div>
+        </Container>
+        <div className="d-flex justify-content-center m-auto">
+          <Button
+            className="btn btn-dark m-auto w-100 rounded-0"
+            onClick={{ responsiveTraverse }}
+          >
+            <span>
+              <h5 className="d-flex justify-content-center m-auto">
+                Show More Games
+              </h5>
+            </span>
+          </Button>
         </div>
-      </Container>
-      <div className="d-flex justify-content-center m-auto">
-        <Button
-          className="btn btn-dark m-auto w-100 rounded-0"
-          onClick={{ responsiveTraverse }}
-        >
-          <span>
-            <h5 className="d-flex justify-content-center m-auto">
-              Show More Games
-            </h5>
-          </span>
-        </Button>
       </div>
     </div>
   );
