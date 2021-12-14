@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import InfiniteScroll from "react-infinite-scroller";
+
 const mlResults = require("../data/csvjson.json");
 let mlRes = [];
 const gamedata = require("../data/gamedatafinal.json");
@@ -16,113 +17,118 @@ let traverse = () => {
   }
 
   // Display what you did
-  for (let i = 0; i < gameinfo.length; i++) {
-    console.log(gameinfo[i]);
-  }
-};
-
-let responsiveTraverse = () => {
-  for (let i = 0; i < 20; i++) {
-    gameinfo[counter] = gamedata[counter];
-    counter++;
-  }
-}; // fill the load more algorithm
-
-let renderCards = () => {
-  return (
-    <>
-      {gameinfo.map((gamedata, index) => {
-        return (
-          <>
-            <Col className="my-2 col-3 m-auto">
-              <Card className="border-3 shadow m-auto" key={index}>
-                <Card.Img
-                  style={{ height: "10.5rem" }}
-                  src={gamedata.background_image}
-                />
-                <Card.Body class="card-body my-1">
-                  <div className="d-flex justify-content-center m-auto">
-                    <h5 className="card-title">{gamedata.name}</h5>
-                  </div>
-                  <p className="card-text">
-                    Rating: {gamedata.rating} <br />
-                    How many rated: {gamedata.ratings_count} <br />
-                    How many suggested: {gamedata.suggestions_count}
-                    <br />
-                    <p className="card-text">
-                      Genres:
-                      {gamedata.genres.map((gamedata) => {
-                        return <>{" " + gamedata.name}</>;
-                      })}
-                    </p>
-                  </p>
-
-                  <div className="d-flex justify-content-center m-auto">
-                    <Button className="btn btn-secondary m-auto shadow rounded-pill">
-                      Add Href to these buttons
-                    </Button>
-                  </div>
-                </Card.Body>
-              </Card>
-            </Col>
-          </>
-        );
-      })}
-    </>
-  );
+  // for (let i = 0; i < gameinfo.length; i++) {
+  //   console.log(gameinfo[i]);
+  // }
 };
 
 function ContentCards() {
+  const [games, setGames] = useState([]);
+  const [hasMore, setHasMore] = useState(true);
+  const [page, setPage] = useState(2);
+  const key = "72b10aa7e29d4f42b8b083d2e208b77b";
+
+  useEffect(() => {
+    const getGames = async () => {
+      const res = await fetch(
+        `https://api.rawg.io/api/games?key=${key}&page=1`
+      );
+      const data = await res.json();
+      const results = data.results;
+      setGames(results);
+    };
+
+    getGames();
+  }, []);
+
+  const fetchGames = async () => {
+    const res = await fetch(
+      `https://api.rawg.io/api/games?key=${key}&page=${page}`
+    );
+    const data = await res.json();
+    const results = data.results;
+    return results;
+  };
+
+  const fetchData = async () => {
+    const gamesFromServer = await fetchGames();
+
+    setGames([...games, ...gamesFromServer]);
+    if (gamesFromServer.length == 0 || gamesFromServer.length < 20) {
+      setHasMore(false);
+    }
+    setPage(page + 1);
+  };
+
   return (
-    <div className="m-auto bg-success">
-      <p className="text-center mt-2">
-        This is a special message: Make sure you either duplicate the cards if
-        figured how to use the json files or restart the design
-      </p>
-      <div>{traverse()}</div>
-      <div className="d-flex m-auto">
-        <Container style={{ width: "28rem" }} className="mt-4 m-auto">
-          <Row className="m-auto">
-            {mlRes.map((mlRes, index) => {
-              return (
-                <>
-                  <Col key={index} className="col-12 m-auto">
-                    <Card>
-                      <Card.Img />
-                      <Card.Body>
-                        <p className="card-text">{mlRes.name}</p>
-                      </Card.Body>
-                    </Card>
-                  </Col>
-                </>
-              );
-            })}
-          </Row>
-        </Container>
-        <Container className="mt-auto">
-          <div>
-            <InfiniteScroll
-              dataLength={gameinfo.length}
-              endMessage={<p className="">Thats All!</p>}
-            >
-              <Row className="m-auto">{renderCards()}</Row>
-            </InfiniteScroll>
-          </div>
-          <div className="d-flex justify-content-center m-auto">
-            <Button
-              className="btn btn-dark m-auto w-100 rounded-0"
-              onClick={responsiveTraverse}
-            >
-              <span>
-                <h5 className="d-flex justify-content-center m-auto">
-                  Show More Games
-                </h5>
-              </span>
-            </Button>
-          </div>
-        </Container>
+    <>
+      <div className="m-auto bg-success">
+        <div>{traverse()}</div>
+        <div className="d-flex m-auto">
+          <Container style={{ width: "28rem" }} className="mt-4 m-auto">
+            <Row className="m-auto">
+              {mlRes.map((mlRes, index) => {
+                return (
+                  <>
+                    <Col key={index} className="col-12 m-auto">
+                      <p className="card-text text-light">{mlRes.name}</p>
+                    </Col>
+                  </>
+                );
+              })}
+            </Row>
+          </Container>
+          <InfiniteScroll
+            dataLength={games.length} //This is important field to render the next data
+            next={fetchData}
+            hasMore={hasMore}
+          >
+            <Container className="mt-auto">
+              <Row className="m-auto">
+                {console.log(games)}
+                {games.map((games) => {
+                  return (
+                    <>
+                      <Col className="my-2 col-3 m-auto">
+                        <Card
+                          className="border-3 shadow m-auto"
+                          key={games._id}
+                        >
+                          <Card.Img
+                            style={{ height: "10.5rem" }}
+                            src={games.background_image}
+                          />
+                          <Card.Body class="card-body my-1">
+                            <div className="d-flex justify-content-center m-auto">
+                              <h5 className="card-title">{games.name}</h5>
+                            </div>
+                            <p className="card-text">
+                              Rating: {games.rating} <br />
+                              <p className="card-text overflow-hidden">
+                                Genres:
+                                {games.genres.map((games) => {
+                                  return <>{" " + games.name}</>;
+                                })}
+                              </p>
+                            </p>
+
+                            <div className="d-flex justify-content-center m-auto">
+                              <Button className="btn btn-secondary m-auto shadow rounded-pill">
+                                Add Href to these buttons
+                              </Button>
+                            </div>
+                          </Card.Body>
+                        </Card>
+                      </Col>
+                    </>
+                  );
+                })}
+              </Row>
+            </Container>
+          </InfiniteScroll>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 
