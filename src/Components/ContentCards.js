@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import InfiniteScroll from "react-infinite-scroller";
+import { Link } from "react-router-dom";
 
 const mlResults = require("../data/csvjson.json");
 let mlRes = [];
@@ -53,7 +54,7 @@ function ContentCards() {
   const fetchData = async () => {
     const gamesFromServer = await fetchGames();
 
-    setGames([...games, ...gamesFromServer]);
+    setGames((games) => [...games, ...gamesFromServer]);
     if (gamesFromServer.length == 0 || gamesFromServer.length < 20) {
       setHasMore(false);
     }
@@ -62,8 +63,9 @@ function ContentCards() {
 
   return (
     <>
-      <div className="m-auto bg-success">
+      <div className="m-auto bg-success mt-5 pt-3">
         <div>{traverse()}</div>
+
         <div className="d-flex m-auto">
           <Container style={{ width: "28rem" }} className="mt-4 m-auto">
             <Row className="m-auto">
@@ -78,22 +80,28 @@ function ContentCards() {
               })}
             </Row>
           </Container>
-          <InfiniteScroll
-            dataLength={games.length} //This is important field to render the next data
-            next={fetchData}
-            hasMore={hasMore}
-          >
-            <Container className="mt-auto">
+
+          <Container className="mt-auto">
+            <InfiniteScroll
+              dataLength={games.length} //This is important field to render the next data
+              loadMore={fetchData}
+              hasMore={hasMore}
+              loader={
+                <h4 className="text-center text-light">Loading More..</h4>
+              }
+              endMessage={
+                <h3 className="text-center text-light">
+                  This is the end, my only friend, the end... (*The Doors)
+                </h3>
+              }
+            >
               <Row className="m-auto">
                 {console.log(games)}
-                {games.map((games) => {
+                {games.map((games, index) => {
                   return (
                     <>
                       <Col className="my-2 col-3 m-auto">
-                        <Card
-                          className="border-3 shadow m-auto"
-                          key={games._id}
-                        >
+                        <Card className="border-3 shadow m-auto" key={index}>
                           <Card.Img
                             style={{ height: "10.5rem" }}
                             src={games.background_image}
@@ -113,9 +121,11 @@ function ContentCards() {
                             </p>
 
                             <div className="d-flex justify-content-center m-auto">
-                              <Button className="btn btn-secondary m-auto shadow rounded-pill">
-                                Add Href to these buttons
-                              </Button>
+                              <Link>
+                                <Button className="btn btn-secondary m-auto shadow rounded-pill">
+                                  Add Href to these buttons
+                                </Button>
+                              </Link>
                             </div>
                           </Card.Body>
                         </Card>
@@ -124,8 +134,8 @@ function ContentCards() {
                   );
                 })}
               </Row>
-            </Container>
-          </InfiniteScroll>
+            </InfiniteScroll>
+          </Container>
         </div>
       </div>
     </>
