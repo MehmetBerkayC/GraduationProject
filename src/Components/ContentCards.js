@@ -3,32 +3,59 @@ import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import InfiniteScroll from "react-infinite-scroller";
 import { Link, Navigate } from "react-router-dom";
 
-const mlResults = require("../data/csvjson.json");
-let mlRes = [];
-const gamedata = require("../data/gamedatafinal.json");
-let gameinfo = [];
-let counter = 0;
-
-let traverse = () => {
-  // Cut the JSON data into N games
-  for (let i = 0; i < 50; i++) {
-    gameinfo[i] = gamedata[i];
-    mlRes[i] = mlResults[i];
-    counter++;
-  }
-
-  // Display what you did
-  // for (let i = 0; i < gameinfo.length; i++) {
-  //   console.log(gameinfo[i]);
-  // }
-};
-
 function ContentCards() {
+  /* This part is for fetching games */
   const [games, setGames] = useState([]);
   const [hasMore, setHasMore] = useState(true);
   const [page, setPage] = useState(2);
   const key = "72b10aa7e29d4f42b8b083d2e208b77b";
 
+  /* This part is for ML results */
+  const [ratingsML, setRatingsML] = useState(require("../data/rfjson.json"));
+  const [more, setMore] = useState(true);
+  const [ratings, setRating] = useState([]);
+  const [countedLast, setCountedLast] = useState(0);
+
+  useEffect(() => {
+    const getRatings = () => {
+      let rating = [];
+
+      for (let i = 0; i < 17; i++) {
+        rating[i] = ratingsML[i];
+      }
+      console.log("CountedLast before: " + countedLast);
+      setCountedLast(countedLast + 17);
+      console.log("CountedLast after: " + countedLast);
+
+      console.log(rating);
+      setRating(rating);
+    };
+
+    getRatings();
+  }, []);
+
+  const recommendMore = () => {
+    try {
+      let rating = [];
+      if (ratingsML[countedLast + 17] != null) {
+        for (let i = 0; i < 17; i++) {
+          rating[i] = ratingsML[i + countedLast];
+        }
+        setCountedLast(countedLast + 17);
+      } else {
+        while (ratingsML[countedLast] != null) {
+          rating[countedLast] = ratingsML[countedLast];
+          countedLast++;
+        }
+        setMore(false);
+      }
+      setRating((ratings) => [...ratings, ...rating]);
+    } catch (err) {
+      console.log(err);
+    }
+  };
+
+  /* games from API */
   useEffect(() => {
     const getGames = async () => {
       const res = await fetch(`https://api.rawg.io/api/games?key=${key}&page=1`)
@@ -80,27 +107,52 @@ function ContentCards() {
   return (
     <>
       <div className="m-auto bg-success mt-5 pt-3">
-        <div>{traverse()}</div>
-
-        <div className="d-flex m-auto">
-          <Container style={{ width: "28rem" }} className="mt-4 m-auto">
-            <Link className="text-light" to="/404">
-              404 Page
-            </Link>
-            <Row className="m-auto">
-              {mlRes.map((mlRes, index) => {
-                return (
-                  <>
-                    <Col key={index} className="col-12 m-auto">
-                      <p className="card-text text-light">{mlRes.name}</p>
-                    </Col>
-                  </>
-                );
-              })}
-            </Row>
+        <div className="d-flex mt-2 m-auto">
+          <Container style={{ width: "28rem" }} className="mt-1 m-auto">
+            <InfiniteScroll
+              dataLength={ratings.length} //This is important field to render the next data
+              loadMore={recommendMore}
+              hasMore={more}
+              loader={
+                <h4 className="text-center text-light">Loading More..</h4>
+              }
+              endMessage={
+                <h3 className="text-center text-light">
+                  Those were all we had to offer!
+                </h3>
+              }
+            >
+              <Row className="m-auto">
+                {console.log(ratings)}
+                {ratings.map((ratings, index) => {
+                  return (
+                    <>
+                      <Col className="my-1 col-9 m-auto">
+                        <Card
+                          className="border-3 shadow m-auto bg-light"
+                          key={index}
+                        >
+                          <Card.Body className="card-text">
+                            <div className="d-flex justify-content-center m-auto">
+                              <h5 className="card-title text-dark text-center">
+                                {ratings.name}
+                              </h5>
+                            </div>
+                            <p className="card-text">
+                              {" "}
+                              Rating: {ratings.Label}
+                            </p>
+                          </Card.Body>
+                        </Card>
+                      </Col>
+                    </>
+                  );
+                })}
+              </Row>
+            </InfiniteScroll>
           </Container>
 
-          <Container className="mt-auto">
+          <Container className="m-auto">
             <InfiniteScroll
               dataLength={games.length} //This is important field to render the next data
               loadMore={fetchData}
