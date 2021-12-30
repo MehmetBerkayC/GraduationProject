@@ -13,7 +13,7 @@ function Navbar() {
 
           <ul className="navbar-nav ms-2 me-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="/GamePage">
+              <Link className="nav-link text-light" to="/GamePage">
                 GamePage
               </Link>
             </li>

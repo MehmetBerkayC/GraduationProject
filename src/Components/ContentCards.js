@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import InfiniteScroll from "react-infinite-scroller";
-import { Link } from "react-router-dom";
+import { Link, Navigate } from "react-router-dom";
 
 const mlResults = require("../data/csvjson.json");
 let mlRes = [];
@@ -31,12 +31,21 @@ function ContentCards() {
 
   useEffect(() => {
     const getGames = async () => {
-      const res = await fetch(
-        `https://api.rawg.io/api/games?key=${key}&page=1`
-      );
-      const data = await res.json();
-      const results = data.results;
-      setGames(results);
+      const res = await fetch(`https://api.rawg.io/api/games?key=${key}&page=1`)
+        .then((res) => {
+          if (!res.ok) {
+            throw Error("Couldn't fetch data for that resource");
+          }
+          res.json().then((data) => {
+            const results = data.results;
+            setGames(results);
+          });
+        })
+        .catch((error) => {
+          console.log(error.message);
+
+          return <Navigate to="/404" />; /* This doesn't work for now*/
+        });
     };
 
     getGames();
@@ -46,19 +55,26 @@ function ContentCards() {
     const res = await fetch(
       `https://api.rawg.io/api/games?key=${key}&page=${page}`
     );
+
     const data = await res.json();
     const results = data.results;
     return results;
   };
 
   const fetchData = async () => {
-    const gamesFromServer = await fetchGames();
+    await fetchGames()
+      .then((gamesFromServer) => {
+        setGames((games) => [...games, ...gamesFromServer]);
+        if (gamesFromServer.length === 0 || gamesFromServer.length < 20) {
+          setHasMore(false);
+        }
+        setPage(page + 1);
+      })
+      .catch((error) => {
+        console.log(error.message);
 
-    setGames((games) => [...games, ...gamesFromServer]);
-    if (gamesFromServer.length == 0 || gamesFromServer.length < 20) {
-      setHasMore(false);
-    }
-    setPage(page + 1);
+        return <Navigate to="/404" />; /* This doesn't work for now*/
+      });
   };
 
   return (
@@ -68,6 +84,9 @@ function ContentCards() {
 
         <div className="d-flex m-auto">
           <Container style={{ width: "28rem" }} className="mt-4 m-auto">
+            <Link className="text-light" to="/404">
+              404 Page
+            </Link>
             <Row className="m-auto">
               {mlRes.map((mlRes, index) => {
                 return (
@@ -121,11 +140,12 @@ function ContentCards() {
                             </p>
 
                             <div className="d-flex justify-content-center m-auto">
-                              <Link>
-                                <Button className="btn btn-secondary m-auto shadow rounded-pill">
-                                  Add Href to these buttons
-                                </Button>
-                              </Link>
+                              <Button
+                                className="btn btn-secondary m-auto shadow rounded-pill"
+                                href="/GamePage"
+                              >
+                                Show more
+                              </Button>
                             </div>
                           </Card.Body>
                         </Card>

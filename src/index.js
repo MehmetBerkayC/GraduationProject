@@ -6,12 +6,14 @@ import reportWebVitals from "./reportWebVitals";
 import { Routes, Route } from "react-router";
 import { BrowserRouter } from "react-router-dom";
 import GamePage from "./Pages/GamePage";
+import ErrorPage from "./Pages/ErrorPage";
 
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/GamePage" element={<GamePage />} />
+      <Route path="/404" element={<ErrorPage />} />
     </Routes>
   </BrowserRouter>,
   document.getElementById("root")

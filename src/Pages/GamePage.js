@@ -1,14 +1,16 @@
 import React from "react";
-import { Card } from "react-bootstrap";
 import Navbar from "../Components/Navbar";
 
 function GamePage(props) {
   return (
-    <div>
-      <div className="m-2 p-2">
-        <p>Oh hi there!</p>
+    <>
+      <div className="bg-success vh-100">
+        <Navbar />
+        <div className="mt-5 pt-3 text-center text-light">
+          <p>Oh hi there!</p>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
 
