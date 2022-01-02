@@ -11,7 +11,9 @@ function ContentCards() {
   const key = "72b10aa7e29d4f42b8b083d2e208b77b";
 
   /* This part is for ML results */
-  const [ratingsML, setRatingsML] = useState(require("../data/rfjson.json"));
+  const [ratingsML, setRatingsML] = useState(
+    require("../data/rfjsonOrdered.json")
+  );
   const [more, setMore] = useState(true);
   const [ratings, setRating] = useState([]);
   const [countedLast, setCountedLast] = useState(0);
@@ -20,11 +22,11 @@ function ContentCards() {
     const getRatings = () => {
       let rating = [];
 
-      for (let i = 0; i < 17; i++) {
+      for (let i = 0; i < 10; i++) {
         rating[i] = ratingsML[i];
       }
       console.log("CountedLast before: " + countedLast);
-      setCountedLast(countedLast + 17);
+      setCountedLast(countedLast + 10);
       console.log("CountedLast after: " + countedLast);
 
       console.log(rating);
@@ -37,11 +39,11 @@ function ContentCards() {
   const recommendMore = () => {
     try {
       let rating = [];
-      if (ratingsML[countedLast + 17] != null) {
-        for (let i = 0; i < 17; i++) {
+      if (ratingsML[countedLast + 7] != null) {
+        for (let i = 0; i < 7; i++) {
           rating[i] = ratingsML[i + countedLast];
         }
-        setCountedLast(countedLast + 17);
+        setCountedLast(countedLast + 7);
       } else {
         while (ratingsML[countedLast] != null) {
           rating[countedLast] = ratingsML[countedLast];
@@ -109,6 +111,7 @@ function ContentCards() {
       <div className="m-auto bg-success mt-5 pt-3">
         <div className="d-flex mt-2 m-auto">
           <Container style={{ width: "28rem" }} className="mt-1 m-auto">
+            <h3 className="text-center text-light">Our Recommendations</h3>
             <InfiniteScroll
               dataLength={ratings.length} //This is important field to render the next data
               loadMore={recommendMore}
@@ -123,7 +126,6 @@ function ContentCards() {
               }
             >
               <Row className="m-auto">
-                {console.log(ratings)}
                 {ratings.map((ratings, index) => {
                   return (
                     <>
@@ -139,8 +141,9 @@ function ContentCards() {
                               </h5>
                             </div>
                             <p className="card-text">
-                              {" "}
-                              Rating: {ratings.Label}
+                              Rating: {ratings.Label} <br /> Total rated:
+                              {" " + ratings.ratings_count} <br /> Total
+                              suggested: {" " + ratings.suggestions_count}
                             </p>
                           </Card.Body>
                         </Card>

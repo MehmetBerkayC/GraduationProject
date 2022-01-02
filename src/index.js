@@ -13,7 +13,7 @@ ReactDOM.render(
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/GamePage" element={<GamePage />} />
-      <Route path="/404" element={<ErrorPage />} />
+      <Route path="*" element={<ErrorPage />} />
     </Routes>
   </BrowserRouter>,
   document.getElementById("root")

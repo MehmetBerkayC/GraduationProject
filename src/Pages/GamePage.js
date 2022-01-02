@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../Components/Navbar";
 
-function GamePage(props) {
+function GamePage() {
   return (
     <>
       <div className="bg-success vh-100">
