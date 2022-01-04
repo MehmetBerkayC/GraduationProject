@@ -196,7 +196,27 @@ function ContentCards() {
                                 className="btn btn-secondary m-auto shadow rounded-pill"
                                 href="/GamePage"
                               >
-                                Show more
+                                Details
+                              </Button>
+                              <Button
+                                className="btn btn-secondary m-auto shadow rounded-pill"
+                                href={
+                                  "https://www.youtube.com/results?search_query=" +
+                                  games.name
+                                }
+                                target="_blank"
+                              >
+                                Videos
+                              </Button>
+                              <Button
+                                className="btn btn-secondary m-auto shadow rounded-pill"
+                                href={
+                                  "https://store.steampowered.com/search/?term=" +
+                                  games.name
+                                }
+                                target="_blank"
+                              >
+                                Store
                               </Button>
                             </div>
                           </Card.Body>
