@@ -1,14 +1,16 @@
 import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import InfiniteScroll from "react-infinite-scroller";
-import { Link, Navigate } from "react-router-dom";
+import { Navigate, useNavigate } from "react-router-dom";
+import config from "../Essentials/config.js";
 
 function ContentCards() {
   /* This part is for fetching games */
   const [games, setGames] = useState([]);
   const [hasMore, setHasMore] = useState(true);
   const [page, setPage] = useState(2);
-  const key = "72b10aa7e29d4f42b8b083d2e208b77b";
+
+  const key = config.API_KEY;
 
   /* This part is for ML results */
   const [ratingsML, setRatingsML] = useState(
@@ -70,7 +72,7 @@ function ContentCards() {
         .catch((error) => {
           console.log(error.message);
 
-          return <Navigate to="/404" />; /* This doesn't work for now*/
+          return <useNavigate to="/404" />; /* This doesn't work for now*/
         });
     };
 
