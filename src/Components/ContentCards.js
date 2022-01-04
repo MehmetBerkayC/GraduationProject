@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import InfiniteScroll from "react-infinite-scroller";
 import { Navigate, useNavigate } from "react-router-dom";
-import config from "../Essentials/config.js";
 
 function ContentCards() {
   /* This part is for fetching games */
@@ -10,7 +9,7 @@ function ContentCards() {
   const [hasMore, setHasMore] = useState(true);
   const [page, setPage] = useState(2);
 
-  const key = config.API_KEY;
+  const key = "72b10aa7e29d4f42b8b083d2e208b77b";
 
   /* This part is for ML results */
   const [ratingsML, setRatingsML] = useState(
