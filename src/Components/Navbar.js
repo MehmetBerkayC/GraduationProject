@@ -19,6 +19,18 @@ function Navbar() {
             </li>
           </ul>
         </div>
+
+        <div className="input-group me-3 w-25">
+          <span className="input-group-text">
+            <i className="bi bi-controller">@</i>
+          </span>
+          <input
+            type="text"
+            class="form-control"
+            placeholder="Game name.."
+            aria-label="Name"
+          />
+        </div>
       </nav>
     </>
   );
