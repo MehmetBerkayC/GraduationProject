@@ -25,11 +25,8 @@ function ContentCards() {
       for (let i = 0; i < 10; i++) {
         rating[i] = ratingsML[i];
       }
-      console.log("CountedLast before: " + countedLast);
       setCountedLast(countedLast + 10);
-      console.log("CountedLast after: " + countedLast);
 
-      console.log(rating);
       setRating(rating);
     };
 
