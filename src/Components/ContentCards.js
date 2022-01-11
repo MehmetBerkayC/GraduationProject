@@ -35,24 +35,20 @@ function ContentCards() {
   }, []);
 
   const recommendMore = () => {
-    try {
-      let rating = [];
-      if (ratingsML[countedLast + 7] != null) {
-        for (let i = 0; i < 7; i++) {
-          rating[i] = ratingsML[i + countedLast];
-        }
-        setCountedLast(countedLast + 7);
-      } else {
-        while (ratingsML[countedLast] != null) {
-          rating[countedLast] = ratingsML[countedLast];
-          countedLast++;
-        }
-        setMore(false);
+    let rating = [];
+    if (ratingsML[countedLast + 7] != null) {
+      for (let i = 0; i < 7; i++) {
+        rating[i] = ratingsML[i + countedLast];
       }
-      setRating((ratings) => [...ratings, ...rating]);
-    } catch (err) {
-      console.log(err);
+      setCountedLast(countedLast + 7);
+    } else {
+      while (ratingsML[countedLast] != null) {
+        rating[countedLast] = ratingsML[countedLast];
+        countedLast++;
+      }
+      setMore(false);
     }
+    setRating((ratings) => [...ratings, ...rating]);
   };
 
   /* games from API */
