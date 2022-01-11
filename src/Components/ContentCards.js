@@ -134,21 +134,28 @@ function ContentCards() {
                                 {ratings.name}
                               </h5>
                             </div>
-                            <p className="card-text">
-                              Rating: {ratings.Label} <br /> Total rated:
-                              {" " + ratings.ratings_count} Total suggested:{" "}
-                              {" " + ratings.suggestions_count}
-                            </p>
-                            <Button
-                              className="btn btn-secondary m-auto shadow rounded-pill"
-                              href={
-                                "https://store.steampowered.com/search/?term=" +
-                                ratings.name
-                              }
-                              target="_blank"
-                            >
-                              Store
-                            </Button>
+                            <div className="d-flex m-auto">
+                              <p className="card-text">
+                                <strong>Rating: </strong>
+                                {ratings.Label}
+                                <br />
+                                <strong>Total rated: </strong>
+                                {ratings.ratings_count}
+                                <br />
+                                <strong>Total suggested: </strong>
+                                {ratings.suggestions_count}
+                              </p>
+                              <Button
+                                className="btn btn-danger m-auto shadow rounded-pill"
+                                href={
+                                  "https://store.steampowered.com/search/?term=" +
+                                  ratings.name
+                                }
+                                target="_blank"
+                              >
+                                Store
+                              </Button>
+                            </div>
                           </Card.Body>
                         </Card>
                       </Col>
@@ -206,7 +213,7 @@ function ContentCards() {
                                 Details
                               </Button>
                               <Button
-                                className="btn btn-secondary m-auto shadow rounded-pill"
+                                className="btn btn-primary m-auto shadow rounded-pill"
                                 href={
                                   "https://www.youtube.com/results?search_query=" +
                                   games.name
@@ -216,7 +223,7 @@ function ContentCards() {
                                 Videos
                               </Button>
                               <Button
-                                className="btn btn-secondary m-auto shadow rounded-pill"
+                                className="btn btn-success m-auto shadow rounded-pill"
                                 href={
                                   "https://store.steampowered.com/search/?term=" +
                                   games.name
