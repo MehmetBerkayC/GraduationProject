@@ -1,0 +1,1014 @@
+,name,rating,rating_top,ratings_count,reviews_count,suggestions_count,days,metacritic,added,genre,genres,Label
+0,Grand Theft Auto V,4.0,5,5228,5290,404,3028,97,16261,Adventure,"0,0,1,1,0",Adventure
+6,Counter-Strike: Global Offensive,4.0,4,2550,2571,592,3420,81,12093,Shooter,"0,1,0,1,0",Shooter
+10,Life is Strange,4.0,5,2926,2954,540,2529,83,11836,Adventure,"0,0,1,0,0",Adventure
+11,Red Dead Redemption 2,5.0,5,3636,3708,622,1163,96,11077,Adventure,"0,0,1,1,0",Adventure
+14,Limbo,4.0,4,2619,2649,189,4182,88,10691,Indie,"0,0,1,0,0",Indie
+20,Grand Theft Auto IV,4.0,4,2251,2266,500,4995,95,9664,Adventure,"0,0,1,1,0",Adventure
+22,Horizon Zero Dawn,4.0,5,2895,2937,632,1768,89,9529,Adventure,"0,0,1,1,1",Adventure
+23,God of War,5.0,5,3413,3476,600,1352,94,9483,Adventure,"0,0,1,1,0",Adventure
+25,Metro 2033,4.0,4,1678,1682,589,4309,79,9213,Shooter,"0,1,0,1,0",Shooter
+26,Metal Gear Solid V: The Phantom Pain,4.0,5,2050,2062,510,2314,91,9194,Shooter,"0,1,0,1,0",Shooter
+28,The Walking Dead: Season 1,4.0,5,1901,1912,639,3540,92,8990,Adventure,"0,0,1,0,0",Adventure
+29,Rise of the Tomb Raider,4.0,4,2077,2090,668,2244,86,8937,Action,"0,0,0,1,0",Action
+31,The Witcher 2: Assassins of Kings Enhanced Edition,4.0,4,1649,1658,682,3547,88,8572,RPG,"0,0,0,0,1",Strategy
+32,Batman: Arkham Knight,4.0,4,2022,2034,660,2385,81,8572,Action,"0,0,0,1,0",Action
+34,Hitman,4.0,4,1607,1612,562,2122,83,8363,Shooter,"0,1,0,1,0",Shooter
+40,Red Faction: Armageddon,3.0,3,329,329,681,3861,75,3457,Shooter,"0,1,0,1,0",Shooter
+41,Deadlight,4.0,4,461,468,523,3501,78,3432,Platformer,"0,0,0,1,0",Action
+42,Outland,3.0,3,297,299,411,3903,83,3431,Indie,"0,0,1,1,0",Adventure
+46,Alien Swarm,3.0,4,587,589,561,4184,77,3415,Shooter,"0,1,0,1,0",Shooter
+50,Stories: The Path of Destinies,3.0,4,451,452,531,2091,74,3389,Platformer,"0,0,0,1,1",Action
+52,Drawful 2,3.0,4,212,213,105,2021,74,3367,Casual,"0,0,0,0,0",Casual
+56,Awesomenauts,3.0,3,349,350,414,3532,78,3351,Platformer,"0,0,0,1,0",Strategy
+57,Assassin's Creed Revelations,4.0,4,1016,1026,622,3700,80,3347,Adventure,"0,0,1,1,0",Adventure
+62,Mafia II: Definitive Edition,4.0,4,259,262,584,592,65,3317,Adventure,"0,0,1,1,0",Adventure
+63,Shadow Warrior (2013),4.0,4,469,473,611,3020,73,3312,Shooter,"0,1,0,1,0",Shooter
+65,Yakuza Kiwami,4.0,4,583,595,274,2172,83,3302,Adventure,"0,0,1,1,1",Adventure
+66,Gears 5,4.0,4,640,653,683,844,83,3295,Shooter,"0,1,0,1,0",Shooter
+67,Shadowrun: Dragonfall - Director's Cut,4.0,4,276,279,473,2663,87,3292,Indie,"0,0,1,0,1",Indie
+70,Day of Defeat: Source,3.0,4,291,294,282,5941,80,3258,Action,"0,0,0,1,0",Action
+82,Mass Effect: Andromeda,3.0,3,920,933,260,1747,73,3194,Action,"0,0,0,1,1",Action
+83,Viking: Battle for Asgard,2.0,3,242,243,655,5030,66,3194,Adventure,"0,0,1,1,1",Adventure
+86,Street Fighter V,4.0,4,393,398,576,2147,74,3178,Action,"0,0,0,1,0",Action
+87,Steep,4.0,4,735,737,280,1856,72,3172,Action,"0,0,0,1,0",Action
+89,Mortal Kombat Komplete Edition,4.0,4,719,725,419,3104,82,3163,Arcade,"0,0,0,0,0",Casual
+93,Day of Defeat,3.0,3,226,227,283,6820,79,3125,Action,"0,0,0,1,0",Action
+96,Crash Bandicoot N. Sane Trilogy,4.0,4,448,456,533,1646,81,3117,Platformer,"0,0,0,1,0",Action
+99,Injustice 2,4.0,4,748,756,404,1698,88,3109,Fighting,"0,0,0,0,0",Strategy
+101,Furi,4.0,4,581,588,438,2007,76,3097,Arcade,"0,0,0,1,0",Action
+105,SteamWorld Dig,4.0,4,481,485,449,3068,76,3085,Adventure,"0,0,1,1,0",Adventure
+106,Alpha Protocol,4.0,4,376,377,618,4286,72,3074,Shooter,"0,1,0,1,1",Shooter
+107,Surgeon Simulator,4.0,4,430,431,316,3180,71,3045,Educational,"0,0,0,1,0",Platformer
+110,Evolve Stage 2,2.0,3,358,358,674,2517,77,3026,Action,"0,0,0,1,0",Action
+115,Race The Sun,3.0,4,363,364,203,3059,79,2985,Racing,"1,0,0,1,0",Racing
+117,Dead Rising 2,4.0,4,456,458,317,4141,78,2981,Action,"0,0,0,1,0",Platformer
+127,Outlast 2,4.0,4,470,472,313,1713,76,2937,Indie,"0,0,1,1,0",Indie
+131,SpaceChem,3.0,4,200,200,367,4018,84,2914,Strategy,"0,0,0,0,0",Strategy
+133,Serious Sam: The First Encounter,4.0,4,430,432,422,7591,87,2908,Shooter,"0,1,0,1,0",Shooter
+136,The Sims 4,4.0,4,703,711,446,2678,67,2892,Casual,"0,0,0,0,0",Casual
+139,Resident Evil 3,4.0,4,476,492,471,639,80,2870,Shooter,"0,1,1,1,0",Shooter
+140,Rayman Origins,4.0,4,604,612,517,3700,86,2867,Family,"0,0,0,1,0",Action
+144,Need For Speed: Hot Pursuit,4.0,4,574,575,308,4064,86,2839,Racing,"1,0,0,0,0",Racing
+145,Risk of Rain,4.0,4,400,403,223,2977,77,2832,Platformer,"0,0,0,1,0",Platformer
+147,Tropico 3,3.0,4,217,217,504,4456,79,2812,Strategy,"0,0,0,0,0",Strategy
+148,LEGO Marvel Super Heroes,4.0,4,498,501,518,2993,78,2811,Family,"0,0,1,1,0",Adventure
+149,The Surge,3.0,3,475,480,615,1692,72,2808,Action,"0,0,0,1,1",Action
+154,TEKKEN 7,4.0,4,558,564,634,2481,82,2790,Action,"0,0,0,1,0",Action
+156,ARK: Survival Evolved,3.0,3,380,383,596,2405,70,2772,Adventure,"0,0,1,1,1",Adventure
+158,Darksiders III,3.0,4,420,428,379,1131,66,2767,Adventure,"0,0,1,1,1",Adventure
+160,Vanquish,4.0,4,468,472,658,4092,79,2741,Shooter,"0,1,0,1,0",Shooter
+165,TERA,3.0,3,390,391,326,1796,77,2729,Massively Multiplayer,"0,0,0,1,1",Action
+167,Dirty Bomb,3.0,3,311,312,677,2406,63,2725,Shooter,"0,1,0,1,0",Shooter
+170,Plants vs. Zombies GOTY Edition,4.0,4,511,514,269,4162,87,2706,Strategy,"0,0,0,0,0",Strategy
+171,Call of Duty: Advanced Warfare,3.0,4,638,641,632,2616,78,2704,Shooter,"0,1,0,1,0",Shooter
+175,Company of Heroes: Tales of Valor,3.0,4,168,168,564,4652,70,2689,Strategy,"0,0,0,0,0",Strategy
+180,RUINER,4.0,4,479,488,492,1558,78,2665,Shooter,"0,1,0,1,0",Shooter
+183,AudioSurf,4.0,4,465,467,283,5069,85,2661,Indie,"0,0,0,0,0",Strategy
+191,Need for Speed Payback,3.0,3,522,530,434,1516,61,2636,Racing,"1,0,0,0,0",Racing
+192,Kane & Lynch 2: Dog Days,3.0,4,389,391,567,4155,66,2632,Shooter,"0,1,0,1,0",Shooter
+193,South Park: The Fractured But Whole,4.0,4,622,628,212,1737,80,2629,Adventure,"0,0,1,0,1",Indie
+197,The Evil Within 2,4.0,4,601,605,468,1543,82,2610,Shooter,"0,1,1,1,0",Shooter
+198,Hellblade: Senua's Sacrifice VR Edition,4.0,4,190,191,513,1250,87,2608,Indie,"0,0,1,1,0",Adventure
+204,STAR WARS: The Force Unleashed II,4.0,4,415,415,660,4086,59,2578,Adventure,"0,0,1,1,0",Adventure
+205,Aegis Defenders,3.0,3,73,74,297,1424,76,2575,Adventure,"0,0,1,1,1",Adventure
+210,Plague Inc: Evolved,4.0,4,444,448,301,2297,80,2561,Casual,"0,0,0,0,0",Strategy
+212,"Warhammer 40,000: Dawn of War II",4.0,4,303,306,744,4700,85,2542,Strategy,"0,0,0,0,1",Strategy
+215,Need for Speed Rivals,3.0,3,521,523,404,2969,77,2537,Racing,"1,0,0,1,0",Racing
+220,Duke Nukem Forever,3.0,3,434,436,657,3859,54,2502,Shooter,"0,1,0,1,0",Shooter
+229,Star Wars: Republic Commando,4.0,4,383,389,643,6150,78,2467,Shooter,"0,1,0,1,0",Shooter
+231,How to Survive,3.0,3,304,305,582,2992,60,2457,Adventure,"0,0,1,1,1",Adventure
+235,Fallout 76,3.0,1,462,469,399,1144,51,2451,Adventure,"0,0,1,1,1",Adventure
+240,Serious Sam 2,4.0,4,339,342,595,5926,74,2423,Indie,"0,0,0,1,0",Action
+242,Gothic 3,4.0,4,370,370,475,5560,63,2421,Adventure,"0,0,1,1,1",Adventure
+245,OKAMI HD / 大神 絶景版,4.0,5,300,304,486,1481,92,2410,Adventure,"0,0,1,1,0",Adventure
+246,DiRT Rally 2.0,4.0,4,217,218,331,1040,83,2410,Racing,"1,0,0,0,0",Racing
+251,Grow Home,4.0,4,333,335,330,2888,75,2388,Casual,"0,0,1,0,0",Indie
+255,Skullgirls,4.0,4,258,262,442,3609,83,2361,Adventure,"0,0,1,1,1",Adventure
+258,Command & Conquer: Red Alert 3 - Uprising,4.0,4,185,185,670,4678,64,2353,Strategy,"0,0,0,0,0",Strategy
+261,Fahrenheit: Indigo Prophecy Remastered,4.0,5,402,403,487,2530,68,2339,Adventure,"0,0,1,0,1",Indie
+264,LEGO Star Wars - The Complete Saga,4.0,4,465,468,329,5170,77,2322,Family,"0,0,1,1,0",Adventure
+268,DOOM II,4.0,5,553,556,430,9955,83,2308,Shooter,"0,1,0,1,0",Shooter
+272,ENSLAVED: Odyssey to the West Premium Edition,4.0,4,305,306,609,2991,70,2298,Adventure,"0,0,1,1,0",Adventure
+277,STAR WARS - The Force Unleashed Ultimate Sith Edition,4.0,4,287,291,495,4400,65,2292,Action,"0,0,0,1,0",Strategy
+282,Shank 2,4.0,4,225,226,556,3616,72,2266,Arcade,"0,0,1,1,0",Adventure
+283,Dead Space 3,4.0,4,575,581,522,3252,77,2266,Shooter,"0,1,0,1,0",Shooter
+291,Fable: The Lost Chapters,4.0,5,653,658,631,5966,83,2240,Adventure,"0,0,1,1,1",Adventure
+294,Overlord: Raising Hell,4.0,4,160,160,636,5069,72,2230,RPG,"0,0,0,0,1",Strategy
+300,Pyre,4.0,5,406,412,366,1621,84,2215,Adventure,"0,0,1,0,1",Indie
+303,Bloodstained: Ritual of the Night,4.0,4,339,346,610,928,81,2205,Adventure,"0,0,1,1,0",Adventure
+304,Dungeon of the Endless,4.0,4,217,218,422,2623,79,2204,Indie,"0,0,1,0,1",Indie
+306,Ashes of the Singularity: Escalation,2.0,1,43,43,502,1879,81,2198,Strategy,"0,0,0,0,1",Strategy
+308,Dark Souls II,4.0,4,560,563,596,2853,91,2194,Action,"0,0,0,1,1",Action
+309,Resident Evil: Village,4.0,5,308,323,869,239,83,2191,Adventure,"0,0,1,1,0",Adventure
+312,Wasteland 2: Director's Cut,4.0,4,269,273,579,2272,87,2171,Indie,"0,0,1,0,1",Shooter
+313,Natural Selection 2,3.0,4,163,163,686,3350,80,2171,Strategy,"0,0,0,1,0",Indie
+316,Kingdom: New Lands,4.0,4,288,290,447,2264,80,2155,Casual,"0,0,0,0,0",Strategy
+317,Giana Sisters: Twisted Dreams,3.0,3,150,150,511,3358,77,2150,Adventure,"0,0,1,1,0",Adventure
+318,Need for Speed: Most Wanted - A Criterion Game,3.0,4,465,468,371,3350,82,2145,Racing,"1,0,1,1,0",Indie
+319,Mafia: Definitive Edition,4.0,4,436,447,413,463,78,2140,Adventure,"0,0,1,1,0",Adventure
+320,Call of Duty: Infinite Warfare,4.0,4,419,423,491,1884,73,2140,Shooter,"0,1,0,1,0",Shooter
+321,LEGO Batman,4.0,4,335,336,353,4848,80,2140,Adventure,"0,0,1,1,0",Adventure
+322,Golf With Your Friends,4.0,4,233,234,324,2164,69,2139,Casual,"0,0,0,0,0",Casual
+324,Two Worlds II,3.0,3,202,203,687,4071,76,2137,RPG,"0,0,0,0,1",Strategy
+326,A Hat in Time,4.0,5,407,419,380,1549,77,2132,Platformer,"0,0,0,1,0",Indie
+327,Little Inferno,4.0,4,285,289,328,3332,68,2129,Adventure,"0,0,1,0,0",Indie
+337,Resident Evil 0 / biohazard 0 HD REMASTER,4.0,4,306,308,582,2174,69,2112,Adventure,"0,0,1,1,0",Adventure
+341,Risk of Rain 2,4.0,4,394,401,429,1010,85,2095,Shooter,"0,1,0,1,0",Shooter
+342,Mafia: The City of Lost Heaven,4.0,5,915,924,439,7066,88,2095,Adventure,"0,0,1,1,0",Adventure
+351,Defiance,2.0,1,185,185,714,3196,64,2063,Shooter,"0,1,0,1,1",Shooter
+352,Crossout,3.0,3,351,352,438,1677,68,2060,Racing,"1,0,0,1,0",Racing
+353,POSTAL,3.0,3,164,165,548,8814,56,2060,Indie,"0,0,0,1,0",Action
+356,Dungeon Siege 3,3.0,3,189,189,650,3868,72,2039,Action,"0,0,0,1,1",Action
+361,Everybody's Gone to the Rapture,3.0,3,434,437,418,2335,76,2021,Casual,"0,0,1,0,0",Indie
+367,Mutant Year Zero: Road to Eden,4.0,4,388,394,475,1125,78,2015,Strategy,"0,0,1,0,1",Indie
+368,Apotheon,3.0,4,286,286,356,2525,78,2009,Indie,"0,0,1,1,1",Indie
+372,Lovers in a Dangerous Spacetime,4.0,4,335,338,357,2307,80,2006,Shooter,"0,1,0,1,0",Shooter
+375,The Tiny Bang Story,3.0,4,188,190,390,3908,63,1998,Adventure,"0,0,1,0,0",Indie
+376,Shadowrun: Hong Kong - Extended Edition,4.0,4,184,185,605,2326,81,1997,Indie,"0,0,1,0,1",Indie
+378,Graveyard Keeper,4.0,4,291,294,223,1236,68,1986,Indie,"0,0,1,0,1",Indie
+383,The Sims 3,4.0,4,568,570,535,4596,86,1970,Casual,"0,0,0,0,0",Strategy
+384,Need for Speed Heat,3.0,3,293,296,190,785,73,1968,Racing,"1,0,0,0,0",Racing
+386,Reus,3.0,3,186,188,291,3153,75,1958,Strategy,"0,0,0,0,0",Strategy
+389,Baldur's Gate: Enhanced Edition,4.0,4,224,227,534,3321,78,1956,Strategy,"0,0,0,0,1",Strategy
+390,Kentucky Route Zero,4.0,5,222,227,154,704,81,1956,Indie,"0,0,1,0,0",Indie
+392,Marvel’s Avengers,3.0,1,215,218,539,484,68,1955,Adventure,"0,0,1,1,1",Adventure
+393,Prince of Persia: The Two Thrones,4.0,4,511,511,634,5875,85,1953,Adventure,"0,0,1,1,0",Adventure
+394,Lucius,3.0,3,179,180,351,3355,59,1950,Indie,"0,0,1,1,0",Indie
+402,Aliens vs. Predator,4.0,4,334,338,666,4337,68,1932,Shooter,"0,1,0,1,0",Shooter
+404,Rebel Galaxy,3.0,3,182,184,499,2266,72,1930,Adventure,"0,0,1,1,1",Adventure
+418,Kathy Rain,3.0,4,119,120,355,2067,77,1908,Indie,"0,0,1,0,0",Indie
+422,Warface: Ice Breaker,2.0,3,114,114,314,2741,62,1899,Massively Multiplayer,"0,0,0,1,0",Indie
+423,"Warhammer 40,000: Dawn of War II Chaos Rising",4.0,4,186,187,636,4314,85,1897,Strategy,"0,0,0,0,1",Strategy
+426,Crysis Warhead,4.0,4,313,313,587,4855,84,1881,Shooter,"0,1,0,1,0",Shooter
+429,Beyond Divinity,3.0,4,143,145,600,6459,73,1877,Action,"0,0,0,1,1",Action
+430,Octodad: Dadliest Catch,4.0,4,273,275,325,2894,69,1876,Adventure,"0,0,1,1,0",Indie
+432,Tiny and Big: Grandpa's Leftovers,3.0,3,125,125,422,3484,75,1867,Adventure,"0,0,1,1,0",Adventure
+433,Mini Metro,4.0,4,357,361,138,2249,77,1864,Strategy,"0,0,0,0,0",Casual
+434,Banished,4.0,4,251,253,525,2875,73,1863,Strategy,"0,0,0,0,0",Strategy
+435,The Crew,3.0,3,354,356,528,2588,71,1863,Racing,"1,0,1,0,0",Shooter
+441,Deus Ex: Mankind Divided,4.0,4,1602,1618,621,1958,83,8009,Action,"0,0,0,1,1",Action
+442,Hotline Miami,4.0,5,2000,2015,309,3358,85,8003,Indie,"0,1,0,1,0",Shooter
+447,Amnesia: The Dark Descent,4.0,4,957,967,424,4134,85,7771,Indie,"0,0,1,1,0",Adventure
+452,L.A. Noire,4.0,4,1651,1666,444,3882,83,7544,Adventure,"0,0,1,1,0",Adventure
+453,Super Meat Boy,4.0,4,1441,1451,275,4091,87,7541,Platformer,"0,0,0,0,0",Indie
+457,Little Nightmares,4.0,4,948,966,344,1710,81,7414,Platformer,"0,0,0,1,0",Action
+458,Mass Effect 2,4.0,5,2367,2385,588,4358,94,7335,Action,"0,0,0,1,1",Action
+459,Half-Life,4.0,5,1705,1717,470,8444,96,7305,Shooter,"0,1,0,1,0",Shooter
+463,Hitman: Absolution,4.0,4,1240,1248,600,3330,79,7225,Shooter,"0,1,0,1,0",Shooter
+473,Mass Effect,4.0,5,2072,2092,517,5160,89,6958,Action,"0,0,0,1,1",Action
+475,Fallout: New Vegas,4.0,5,1881,1892,588,4092,84,6940,Shooter,"0,1,1,1,1",Shooter
+476,Bastion,4.0,4,1390,1406,536,3818,86,6906,Indie,"0,0,1,1,1",Adventure
+481,ASTRONEER,4.0,4,346,348,451,1060,72,1841,Indie,"0,0,1,0,0",Indie
+483,DRAGON BALL FighterZ,4.0,4,355,368,449,1437,86,1839,Action,"0,0,0,1,0",Strategy
+485,Sang-Froid - Tales of Werewolves,2.0,1,91,92,521,3193,79,1836,Adventure,"0,0,1,1,1",Adventure
+491,Yooka-Laylee,3.0,3,206,207,505,1737,73,1818,Indie,"0,0,1,1,0",Adventure
+493,Deep Rock Galactic,4.0,4,246,252,529,1403,84,1815,Indie,"0,0,0,1,0",Action
+494,Ghostrunner,4.0,4,227,234,397,431,77,1813,Action,"0,0,0,1,0",Strategy
+495,Deadpool,4.0,4,394,401,692,3112,63,1811,Adventure,"0,0,1,1,0",Adventure
+496,The Dark Pictures Anthology: Man of Medan,4.0,4,415,427,471,855,71,1810,Adventure,"0,0,1,0,0",Adventure
+498,Teslagrad,3.0,4,183,184,417,2942,77,1803,Adventure,"0,0,1,1,0",Adventure
+499,Jamestown: Legend of the Lost Colony,3.0,4,126,128,447,3860,81,1800,Indie,"0,0,0,1,0",Strategy
+500,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,4.0,4,173,174,446,3232,85,1798,Adventure,"0,0,1,1,0",Adventure
+501,Penumbra Overture,4.0,4,177,177,374,5391,73,1793,Indie,"0,0,1,1,0",Adventure
+503,Faeria,3.0,4,179,181,453,1760,80,1785,Card,"0,0,0,0,0",Strategy
+506,Lethal League,4.0,4,151,151,414,2684,82,1782,Indie,"0,0,0,1,0",Indie
+516,Realm of the Mad God,3.0,4,175,177,361,3603,82,1768,Indie,"0,0,0,1,1",Indie
+517,Prototype 2,4.0,4,362,363,634,3539,76,1767,Adventure,"0,0,1,1,0",Adventure
+519,LEGO Batman 3: Beyond Gotham,4.0,4,155,157,499,2609,74,1764,Family,"0,0,1,1,0",Indie
+523,Goodbye Deponia,4.0,4,203,204,467,3000,80,1754,Adventure,"0,0,1,0,1",Indie
+524,Stronghold HD,4.0,4,257,259,496,7377,81,1753,Strategy,"0,0,0,0,0",Strategy
+528,Lara Croft GO,4.0,4,229,230,331,2319,84,1740,Strategy,"0,0,1,0,0",Indie
+531,Nuclear Throne,4.0,4,236,237,377,2220,88,1736,Shooter,"0,1,0,1,1",Indie
+532,Zeno Clash,4.0,4,180,181,641,4638,77,1736,Indie,"0,1,1,1,0",Shooter
+534,The Council,4.0,4,242,249,489,1391,76,1730,Adventure,"0,0,1,1,1",Adventure
+537,Divide By Sheep,2.0,1,122,122,212,2375,83,1725,Educational,"0,0,1,0,0",Indie
+538,Pathfinder: Kingmaker,4.0,4,200,204,576,1194,73,1720,RPG,"0,0,0,0,1",Strategy
+548,Legacy of Kain: Soul Reaver,4.0,4,191,192,527,8174,91,1697,Platformer,"0,0,1,1,0",Adventure
+555,"Warhammer 40,000: Dawn of War - Dark Crusade",4.0,4,228,228,624,5563,87,1685,Strategy,"0,0,0,0,0",Strategy
+562,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,4.0,4,339,346,488,2158,80,1669,Fighting,"0,0,0,0,0",Strategy
+566,King's Bounty: Armored Princess,4.0,4,190,191,599,4649,82,1661,Strategy,"0,0,0,0,1",Strategy
+569,Total War: WARHAMMER,4.0,4,232,234,624,2048,86,1659,Strategy,"0,0,0,0,1",Strategy
+570,Tower of Guns,2.0,1,117,117,612,2861,76,1658,Shooter,"0,1,0,1,0",Shooter
+571,Edna & Harvey: Harvey's New Eyes,3.0,4,112,112,474,3781,75,1657,Indie,"0,0,1,0,1",Indie
+572,Final Fantasy IX,4.0,5,449,454,501,7848,84,1654,Adventure,"0,0,1,0,1",Shooter
+573,It Takes Two,4.0,5,302,312,845,281,88,1651,Platformer,"0,0,1,1,0",Adventure
+580,Red Faction,4.0,4,213,213,434,7550,78,1641,Shooter,"0,1,0,1,0",Shooter
+583,Commandos 3: Destination Berlin,4.0,4,139,139,658,6654,72,1635,Action,"0,0,0,1,0",Action
+584,Wreckfest,4.0,4,212,214,328,1297,79,1630,Racing,"1,0,0,1,0",Racing
+592,Tom Clancy's Splinter Cell Chaos Theory,4.0,5,352,352,422,6130,92,1622,Adventure,"0,0,1,1,0",Adventure
+600,Worms W.M.D,4.0,4,190,193,497,1958,79,1612,Strategy,"0,0,0,1,0",Action
+602,Worms Ultimate Mayhem,4.0,4,155,155,289,3758,66,1608,Strategy,"0,0,0,1,0",Indie
+603,Command & Conquer: Red Alert 3,4.0,4,264,266,560,5114,82,1605,Strategy,"0,0,0,0,0",Strategy
+604,Nosferatu: The Wrath of Malachi,3.0,4,116,116,450,2858,70,1603,Shooter,"0,1,1,1,0",Shooter
+608,Cities in Motion 2,3.0,3,79,80,398,3196,72,1594,Strategy,"0,0,0,0,0",Strategy
+622,Wizard of Legend,4.0,4,178,181,259,1327,77,1577,Indie,"0,0,1,1,0",Indie
+624,Armello,4.0,4,171,174,478,2314,75,1576,Adventure,"0,0,1,0,1",Indie
+627,Sonic Forces,3.0,3,251,257,548,1516,58,1573,Platformer,"0,0,1,1,0",Adventure
+628,Multiwinia,2.0,1,74,74,443,4853,76,1572,Strategy,"0,0,0,0,0",Strategy
+640,Capsized,3.0,3,94,94,427,3901,80,1556,Indie,"0,0,1,1,0",Adventure
+643,Rochard,3.0,3,113,113,480,3700,81,1546,Casual,"0,0,0,1,0",Indie
+645,Rusty Lake Hotel,4.0,4,100,101,202,2210,65,1544,Indie,"0,0,1,0,0",Indie
+647,Dishonored Definitive Edition,4.0,5,379,385,424,2321,78,1541,Adventure,"0,0,1,1,0",Indie
+652,Shadowgrounds Survivor,3.0,3,65,65,592,5163,79,1530,Shooter,"0,1,0,1,0",Shooter
+654,Bionic Commando: Rearmed,3.0,4,101,101,367,4888,86,1528,Arcade,"0,0,1,1,0",Adventure
+655,UNO,4.0,4,195,196,186,1850,66,1524,Casual,"0,0,0,0,0",Casual
+659,Need For Speed Undercover,3.0,3,366,368,373,4793,65,1521,Racing,"1,0,0,1,0",Racing
+662,Cthulhu Saves the World,3.0,4,71,72,263,3825,78,1517,Indie,"0,0,1,0,1",Indie
+664,The Elder Scrolls: Legends,3.0,3,231,232,414,1746,82,1516,Card,"0,0,0,0,0",Strategy
+668,Minit,4.0,4,246,254,57,1370,78,1512,Indie,"0,0,1,0,1",Indie
+669,"Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack",2.0,1,62,62,205,4512,84,1512,Indie,"0,0,1,0,0",Adventure
+671,Battle Chasers: Nightwar,4.0,4,194,195,506,1551,79,1509,Strategy,"0,0,0,0,1",Strategy
+673,I Am Alive,3.0,4,272,273,616,3587,66,1497,Adventure,"0,0,1,1,0",Adventure
+678,Homefront: The Revolution,3.0,3,266,266,659,2055,54,1489,Shooter,"0,1,1,1,0",Shooter
+680,Batman: The Telltale Series,4.0,4,291,296,471,1978,79,1488,Adventure,"0,0,1,0,0",Indie
+688,Poly Bridge,4.0,4,151,151,291,1999,73,1481,Indie,"0,0,0,0,0",Strategy
+689,Outriders,3.0,3,139,147,1026,275,73,1480,Shooter,"0,1,1,1,1",Shooter
+690,The Vanishing of Ethan Carter Redux,4.0,4,31,31,319,2362,80,1476,Indie,"0,0,1,0,0",Indie
+693,Mega Man Legacy Collection / ロックマン クラシックス コレクション,4.0,4,139,141,273,2322,85,1475,Arcade,"0,0,0,1,0",Indie
+696,A Bird Story,4.0,4,205,209,390,2614,66,1469,Indie,"0,0,1,1,1",Indie
+707,STAR WARS Starfighter,3.0,3,77,78,277,7622,71,1448,Shooter,"0,1,0,1,0",Shooter
+711,The Bard's Tale,4.0,4,125,126,532,6276,70,1445,Adventure,"0,0,1,1,1",Adventure
+714,Skulls of the Shogun,3.0,3,116,116,615,3258,72,1440,Strategy,"0,0,0,1,0",Indie
+715,A Virus Named TOM,2.0,3,64,64,296,3440,65,1440,Action,"0,0,0,1,0",Indie
+716,Toki Tori,3.0,3,100,100,313,4961,80,1440,Casual,"0,0,0,0,0",Strategy
+719,ArcaniA,2.0,3,157,158,602,4100,63,1433,Action,"0,0,0,1,1",Action
+720,Hellpoint,3.0,3,21,23,474,520,61,1431,Indie,"0,0,1,1,1",Indie
+721,Lead and Gold: Gangs of the Wild West,2.0,3,107,107,586,4286,70,1430,Action,"0,0,0,1,0",Indie
+728,World of Tanks Blitz,3.0,3,172,175,785,2744,76,1417,Shooter,"0,1,1,1,0",Shooter
+729,Anomaly 2,3.0,4,51,51,616,3154,77,1413,Strategy,"0,0,0,1,0",Strategy
+738,Duck Game,4.0,4,227,228,362,2403,82,1394,Indie,"0,0,0,1,0",Indie
+740,LEGO Harry Potter: Years 5-7,4.0,4,196,196,618,3704,80,1392,Family,"0,0,1,1,0",Adventure
+742,Late Shift,4.0,4,249,252,490,1720,80,1390,Indie,"0,0,1,0,0",Indie
+744,Vessel,3.0,3,78,78,522,3593,81,1382,Strategy,"0,0,0,1,0",Action
+748,Castlevania: Lords of Shadow 2,4.0,4,200,201,665,2871,58,1363,Adventure,"0,0,1,1,0",Adventure
+750,DiRT 5,3.0,4,97,98,597,421,79,1361,Racing,"1,0,0,0,0",Racing
+755,Tesla Effect: A Tex Murphy Adventure,3.0,3,55,55,475,2811,68,1357,Indie,"0,0,1,0,0",Indie
+756,The Incredible Adventures of Van Helsing: Final Cut,4.0,4,109,109,694,2249,79,1356,Indie,"0,0,1,1,1",Indie
+758,Edge,4.0,4,120,122,139,4749,74,1354,Adventure,"0,0,1,1,0",Adventure
+762,Alien Breed 2: Assault,3.0,3,49,50,676,4119,63,1349,Shooter,"0,1,0,1,0",Shooter
+764,Carrion,4.0,4,265,274,321,527,76,1347,Indie,"0,0,1,1,0",Indie
+765,ClusterTruck,4.0,4,235,241,204,1923,76,1347,Indie,"0,0,0,1,0",Indie
+770,Hard Reset Redux,3.0,3,94,94,629,2039,73,1343,Adventure,"0,0,1,1,0",Adventure
+772,The Showdown Effect,3.0,3,82,82,559,3224,67,1339,Action,"0,0,0,1,0",Action
+773,HOARD,3.0,3,82,82,408,4078,65,1338,Action,"0,0,0,1,0",Action
+774,Pressure,2.0,1,73,73,613,3203,64,1336,Casual,"1,0,0,1,0",Shooter
+776,FINAL FANTASY XV WINDOWS EDITION,4.0,4,244,250,269,1397,81,1336,RPG,"0,0,0,0,1",RPG
+781,Serious Sam Double D XXL,3.0,3,76,76,522,3777,67,1322,Shooter,"0,1,0,1,0",Shooter
+782,The Medium,4.0,4,203,213,510,338,74,1322,Adventure,"0,0,1,1,0",Adventure
+783,Sine Mora,3.0,4,117,118,451,3573,77,1321,Shooter,"0,1,0,1,0",Shooter
+787,Castlevania: Lords of Shadow,4.0,4,268,270,589,4106,84,1313,Adventure,"0,0,1,1,0",Adventure
+789,Singularity,4.0,4,310,312,631,4242,76,1307,Shooter,"0,1,0,1,0",Shooter
+793,X-COM: Enforcer,2.0,1,66,66,384,7564,65,1305,Arcade,"0,1,0,1,0",Shooter
+796,Waveform,2.0,1,82,82,339,3574,81,1299,Racing,"1,0,1,1,1",Indie
+797,The Dark Eye: Chains of Satinav,4.0,4,86,86,671,3480,75,1299,Indie,"0,0,1,0,0",Adventure
+798,Napoleon: Total War,4.0,4,144,144,555,4330,81,1299,Strategy,"0,0,0,0,0",Strategy
+799,The LEGO Movie - Videogame,4.0,4,174,176,375,2886,72,1298,Family,"0,0,1,1,0",Indie
+802,Offworld Trading Company,4.0,4,94,94,386,2075,78,1292,Strategy,"0,0,0,0,0",Strategy
+803,Alien Breed: Impact,3.0,3,59,59,595,4230,64,1291,Shooter,"0,1,0,1,0",Shooter
+804,Age of Empires II: Definitive Edition,4.0,5,176,179,452,779,84,1290,Strategy,"0,0,0,0,0",Strategy
+805,FORCED,3.0,3,90,90,527,2991,62,1289,Indie,"0,0,1,1,1",Indie
+816,Contagion,3.0,3,93,93,387,2990,62,1277,Indie,"0,0,1,1,0",Indie
+823,The Sexy Brutale,4.0,4,122,124,270,1737,83,1269,Indie,"0,0,1,0,0",Indie
+828,Bionic Commando,3.0,3,136,138,628,4611,69,1264,Shooter,"0,1,1,1,0",Shooter
+830,Dead Rising 2: Off the Record,4.0,4,132,133,538,3916,66,1260,Adventure,"0,0,1,1,0",Adventure
+832,I am Bread,3.0,3,153,155,322,2459,60,1260,Indie,"0,0,1,1,0",Indie
+836,Aquaria,4.0,4,69,72,373,5140,82,1257,Indie,"0,0,1,1,0",Adventure
+838,Sundered,3.0,4,113,115,343,1619,76,1256,Indie,"0,0,1,1,0",Indie
+840,Hunt: Showdown,4.0,4,155,161,367,1409,79,1253,Shooter,"0,1,0,1,0",Shooter
+841,Evoland 2,4.0,4,135,135,390,2322,74,1252,Adventure,"0,0,1,1,1",Indie
+843,FlatOut: Ultimate Carnage,4.0,4,156,156,520,4922,79,1249,Racing,"1,0,0,0,0",Racing
+846,Chroma Squad,4.0,4,82,83,290,2439,75,1248,Strategy,"0,0,0,0,1",Strategy
+849,Thumper,4.0,4,245,249,223,1909,85,1246,Indie,"0,0,0,1,0",Indie
+850,Virginia,3.0,4,210,217,237,1928,74,1245,Casual,"0,0,1,1,0",Indie
+851,Call of Juarez: Bound in Blood,4.0,4,224,226,488,4720,78,1244,Shooter,"0,1,0,1,0",Shooter
+852,Dungeons 3,3.0,4,86,87,343,1542,74,1243,Strategy,"0,0,0,0,1",Strategy
+857,Worms Crazy Golf,3.0,3,61,61,379,3728,73,1239,Action,"0,0,0,1,0",Action
+861,Home,3.0,4,100,100,96,3410,69,1234,Casual,"0,0,1,0,0",Indie
+862,ACE COMBAT 7: SKIES UNKNOWN,4.0,4,192,196,481,1079,79,1232,Arcade,"0,0,1,1,0",Indie
+866,Absolute Drift,3.0,3,69,69,117,2353,66,1229,Racing,"1,0,0,1,0",Racing
+870,Stealth Bastard Deluxe,3.0,4,64,64,264,3321,80,1224,Indie,"0,0,0,1,0",Indie
+872,Hitman GO: Definitive Edition,4.0,4,160,161,134,2139,72,1221,Strategy,"0,0,0,0,0",Strategy
+873,Gratuitous Space Battles,3.0,3,38,38,474,4441,72,1221,Strategy,"0,0,0,0,0",Strategy
+877,911 Operator,4.0,4,101,101,398,1772,68,1216,Educational,"0,0,0,0,0",Strategy
+879,Resident Evil: Resistance,2.0,3,83,83,570,638,64,1213,Action,"0,0,0,1,0",Action
+883,XCOM: Enemy Unknown,4.0,4,1319,1327,510,3371,89,6657,Strategy,"0,0,0,0,0",Strategy
+884,Brutal Legend,4.0,4,903,908,667,4464,80,6619,Strategy,"0,0,0,1,0",Action
+889,Don't Starve Together,4.0,4,980,987,451,2081,83,6564,Indie,"0,0,0,1,0",Action
+895,Left 4 Dead,4.0,4,1253,1258,591,4793,89,6318,Shooter,"0,1,0,1,0",Shooter
+896,SEGA Mega Drive and Genesis Classics,3.0,4,454,455,377,4232,76,6311,Adventure,"0,0,1,1,1",Adventure
+897,Counter-Strike,4.0,4,1123,1125,497,7731,88,6310,Shooter,"0,1,0,1,0",Shooter
+904,PlayerUnknown’s Battlegrounds,3.0,3,1431,1446,503,1473,81,6216,Shooter,"0,1,0,1,0",Shooter
+905,Mafia II,4.0,4,1610,1616,588,4148,77,6213,Adventure,"0,0,1,1,0",Adventure
+907,Darksiders,4.0,4,979,981,679,4357,83,6187,Action,"0,0,0,1,0",Action
+913,Batman: Arkham Asylum Game of the Year Edition,4.0,5,1276,1278,529,4299,91,6030,Platformer,"0,0,1,1,0",Adventure
+914,Saints Row IV,4.0,4,1238,1247,566,3056,86,6027,Adventure,"0,0,1,1,0",Adventure
+917,Layers of Fear,4.0,4,889,894,546,2146,72,5992,Indie,"0,0,1,0,0",Adventure
+925,BATTLETECH,4.0,4,123,128,331,1349,78,1205,Strategy,"0,0,1,1,0",Indie
+926,Epistory - Typing Chronicles,4.0,4,100,100,545,2104,74,1204,Indie,"0,0,1,1,0",Adventure
+927,Intrusion 2,3.0,4,64,64,544,3484,80,1198,Indie,"0,0,0,1,0",Indie
+933,Among the Sleep,3.0,4,152,153,352,2775,66,1190,Indie,"0,0,1,0,0",Indie
+938,Unreal Tournament 2004: Editor's Choice Edition,4.0,4,134,134,613,6499,93,1186,Action,"0,0,0,1,0",Action
+943,LEGO Star Wars III - The Clone Wars,4.0,4,188,190,471,3939,76,1173,Arcade,"0,0,1,1,0",Adventure
+948,The Walking Dead: The Final Season,4.0,4,290,296,431,1237,78,1164,Adventure,"0,0,1,1,0",Adventure
+953,Velvet Assassin,3.0,3,99,99,514,4631,61,1158,Adventure,"0,0,1,1,0",Adventure
+954,Sonic & SEGA All-Stars Racing,4.0,4,116,117,494,4330,65,1156,Racing,"1,0,0,0,0",Racing
+956,Call of Juarez,4.0,4,203,205,555,5596,72,1155,Shooter,"0,1,0,1,0",Shooter
+957,Jazzpunk,4.0,4,179,180,485,2886,75,1155,Indie,"0,1,1,1,0",Shooter
+958,Hatoful Boyfriend,3.0,4,165,167,306,2677,68,1154,Adventure,"0,0,1,0,0",Indie
+960,Devil Daggers,4.0,4,131,132,263,2145,83,1153,Indie,"0,0,0,1,0",Indie
+961,XCOM: Chimera Squad,3.0,4,65,67,387,618,77,1153,Strategy,"0,0,0,0,0",Strategy
+966,SPINTIRES,4.0,4,139,139,530,2760,67,1148,Racing,"1,0,1,0,0",Shooter
+974,Loop Hero,4.0,4,156,160,166,303,82,1141,Strategy,"0,0,0,0,1",Strategy
+976,Sacred 3,3.0,3,115,115,636,2711,57,1139,Action,"0,0,0,1,1",Action
+980,Tetris Effect: Connected,4.0,5,106,107,38,417,89,1133,Casual,"0,0,0,0,0",Casual
+981,Shovel Knight: Treasure Trove,4.0,5,277,285,378,2747,91,1133,Platformer,"0,0,1,1,0",Indie
+986,Waking Mars,3.0,4,59,59,345,3594,79,1128,Adventure,"0,0,1,1,0",Indie
+989,Steel Storm: Burning Retribution,2.0,1,40,40,490,3888,55,1125,Indie,"0,0,0,1,0",Action
+990,NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst,4.0,4,180,182,507,2993,80,1122,Adventure,"0,0,1,1,0",Adventure
+995,Quake IV,4.0,4,247,248,667,5919,81,1116,Shooter,"0,1,0,1,0",Shooter
+997,The Longest Journey,4.0,5,172,175,519,8080,91,1109,Adventure,"0,0,1,0,0",Adventure
+1002,Little Nightmares II,4.0,5,195,206,382,325,82,1105,Platformer,"0,0,1,1,0",Indie
+1018,"Warhammer 40,000: Eternal Crusade",3.0,3,107,107,685,1926,52,1092,Massively Multiplayer,"0,0,1,1,0",Adventure
+1022,Dragon Age: Origins Awakening,4.0,5,319,319,375,4309,82,1087,RPG,"0,0,0,0,1",RPG
+1023,Oil Rush,2.0,3,47,48,582,3629,67,1085,Strategy,"0,0,0,0,0",Strategy
+1025,Only If,2.0,1,56,56,394,2717,39,1081,Indie,"0,0,1,0,0",Indie
+1026,Crazy Machines 3,3.0,4,51,51,346,1901,71,1080,Strategy,"0,0,0,0,0",Strategy
+1033,Block N Load,2.0,1,95,95,423,2438,72,1065,Strategy,"0,0,0,1,0",Action
+1034,Solar 2,3.0,4,57,57,94,3851,72,1064,Casual,"0,0,0,1,0",Indie
+1036,Weird Worlds: Return to Infinite Space,2.0,1,32,32,373,3210,79,1063,Adventure,"0,0,1,0,1",Indie
+1037,D4: Dark Dreams Don't Die,4.0,4,176,177,593,2661,72,1062,Casual,"0,0,1,1,0",Adventure
+1039,Volume,3.0,3,75,76,322,2328,80,1060,Indie,"0,0,0,1,0",Indie
+1042,Painkiller Overdose,3.0,4,78,78,632,5184,65,1057,Shooter,"0,1,0,1,0",Shooter
+1046,Yooka-Laylee and the Impossible Lair,4.0,4,58,59,303,817,82,1055,Indie,"0,0,1,0,0",Indie
+1048,Octopath Traveler,4.0,4,227,235,595,1268,82,1054,Adventure,"0,0,1,0,1",Indie
+1049,ReCore,3.0,3,234,234,555,1936,60,1053,Adventure,"0,0,1,1,0",Adventure
+1051,Septerra Core,3.0,3,35,35,194,8098,72,1051,RPG,"0,0,0,0,1",Strategy
+1053,eFootball PES 2020,3.0,4,149,151,399,844,82,1050,Sports,"0,0,0,0,0",Strategy
+1055,F1 2019,4.0,4,95,95,126,918,87,1049,Racing,"1,0,0,0,0",Racing
+1066,Arx Fatalis,4.0,5,119,121,535,6991,77,1037,Adventure,"0,0,1,1,1",Adventure
+1069,Screencheat,4.0,4,67,67,481,2629,71,1035,Shooter,"0,1,0,1,0",Shooter
+1072,Might & Magic: Heroes VI,3.0,4,152,152,486,3733,77,1032,Strategy,"0,0,0,0,1",Strategy
+1081,Wargame: Red Dragon,4.0,4,60,62,389,2816,78,1021,Strategy,"0,0,0,0,0",Strategy
+1083,Stick it to The Man!,3.0,4,121,122,525,2965,83,1017,Indie,"0,0,1,1,0",Adventure
+1084,Unreal 2: The Awakening,4.0,4,93,94,657,6907,75,1016,Shooter,"0,1,0,1,0",Shooter
+1088,Total War: WARHAMMER II,4.0,5,170,174,313,1556,86,1009,Strategy,"0,0,0,1,0",Indie
+1099,Strike Suit Zero,3.0,3,47,47,472,3265,66,994,Indie,"0,0,0,1,0",Strategy
+1100,Anno 2070,4.0,4,127,128,500,3698,83,992,Strategy,"0,0,0,0,0",Strategy
+1106,American Fugitive,3.0,3,54,54,527,956,66,985,Indie,"0,0,1,1,0",Indie
+1109,Seven: The Days Long Gone,3.0,4,71,72,339,1493,68,984,Indie,"0,0,1,1,1",Indie
+1113,Neighbours from Hell Compilation,4.0,4,124,125,458,6526,69,977,Casual,"0,0,1,0,0",Adventure
+1123,Ionball 2: Ionstorm,2.0,1,31,31,464,2766,70,972,Casual,"0,0,0,1,0",Indie
+1125,Samorost 3,4.0,4,127,130,516,2119,80,971,Adventure,"0,0,1,0,0",Indie
+1126,The Gardens Between,4.0,4,176,181,204,1199,79,969,Indie,"0,0,1,0,0",Indie
+1130,King's Bounty: Warriors of the North,4.0,4,86,86,630,3355,74,965,Strategy,"0,0,1,0,1",Indie
+1132,SPORE Galactic Adventures,4.0,4,108,108,566,4575,70,962,Action,"0,0,0,1,0",Action
+1133,Wargame: European Escalation,3.0,4,59,59,507,3601,81,960,Strategy,"0,0,0,0,0",Strategy
+1134,Gigantic,3.0,3,114,114,525,1653,75,960,Strategy,"0,0,0,1,1",Indie
+1135,Men of War: Assault Squad 2,4.0,4,73,73,615,2845,68,959,Strategy,"0,0,0,1,0",Action
+1136,X3: Terran Conflict,4.0,4,51,51,483,4825,73,958,Strategy,"0,0,0,1,0",Action
+1140,Stranded Deep,3.0,3,86,86,410,2535,65,954,Indie,"0,0,1,1,0",Indie
+1141,R.A.W. Realms of Ancient War,2.0,1,47,47,319,3370,39,953,Action,"0,0,0,1,1",Action
+1142,ANCESTORS: The Humankind Odyssey,3.0,3,88,89,345,859,69,953,Indie,"0,0,1,1,1",Adventure
+1146,Blocks That Matter,3.0,3,54,54,152,3788,72,946,Action,"0,0,0,1,0",Indie
+1156,URBAN TRIAL FREESTYLE,3.0,3,86,86,571,3245,58,935,Racing,"1,0,0,1,0",Shooter
+1160,Shelter 2,3.0,4,83,84,455,2491,58,930,Casual,"0,0,1,0,0",Indie
+1161,The Witcher 3: Game of the Year,5.0,5,534,547,86,1950,92,929,Adventure,"0,0,1,0,1",Adventure
+1163,SHIFT 2 UNLEASHED,4.0,4,120,120,365,3952,84,928,Racing,"1,0,0,0,0",Racing
+1167,Agents of Mayhem,3.0,3,137,140,623,1600,70,926,Action,"0,0,0,1,0",Action
+1173,Lumino City,4.0,4,61,61,428,2587,70,920,Indie,"0,0,1,0,0",Indie
+1174,Breathedge,4.0,4,158,160,440,310,66,920,Indie,"0,0,1,1,0",Adventure
+1175,Marvel Ultimate Alliance,4.0,4,202,207,638,5548,81,919,Adventure,"0,0,1,1,1",Adventure
+1178,Carmageddon TDR 2000,3.0,4,124,124,262,7689,48,918,Racing,"1,0,0,1,0",Racing
+1199,The Banner Saga 3,4.0,5,180,183,325,1257,83,896,Strategy,"0,0,0,0,1",Strategy
+1200,DreadOut,3.0,3,59,59,379,2789,55,896,Indie,"0,0,1,0,0",Indie
+1201,Sonic the Hedgehog 4 - Episode II,3.0,4,70,70,497,3519,54,895,Arcade,"0,0,1,1,0",Adventure
+1205,Nioh 2,4.0,5,81,81,44,659,85,891,Action,"0,0,0,1,0",Action
+1208,RollerCoaster Tycoon 2: Triple Thrill Pack,4.0,5,104,104,486,7019,74,889,Strategy,"0,0,0,0,0",Strategy
+1209,Red Wings: Aces of the Sky,3.0,3,9,9,191,590,65,888,Action,"0,0,0,1,0",Indie
+1212,Eldritch,4.0,4,54,56,349,2994,77,885,Indie,"0,0,1,1,1",Indie
+1215,Dreamfall: The Longest Journey,4.0,4,174,176,447,5739,75,881,Adventure,"0,0,1,1,1",Adventure
+1216,Divinity: Dragon Commander,3.0,4,87,87,566,3071,76,881,Strategy,"0,0,0,0,1",Strategy
+1225,Danganronpa V3: Killing Harmony,4.0,5,169,171,395,1815,80,873,Puzzle,"0,0,0,0,0",Strategy
+1230,The Suicide of Rachel Foster,3.0,3,70,70,295,683,63,868,Casual,"0,0,1,0,0",Indie
+1232,Broken Sword 3 - the Sleeping Dragon,4.0,4,73,74,515,6623,82,865,Adventure,"0,0,1,0,0",Adventure
+1233,Freespace 2,3.0,1,65,66,367,8129,91,865,Action,"0,0,0,1,0",Action
+1239,Assassin’s Creed Liberation HD,3.0,3,195,197,432,2971,64,860,Adventure,"0,0,1,1,0",Indie
+1240,Lightmatter,3.0,4,32,33,289,717,73,860,Indie,"0,0,1,0,0",Indie
+1241,Beholder 2,4.0,4,77,77,157,1124,76,860,Indie,"0,0,1,0,0",Indie
+1242,NBA Playgrounds,3.0,3,81,83,561,1699,67,859,Arcade,"0,0,0,0,0",Strategy
+1246,Tharsis,3.0,4,37,37,362,2183,61,857,Strategy,"0,0,0,0,1",Strategy
+1248,Sunless Skies,4.0,4,33,33,221,1585,87,856,Indie,"0,0,1,0,1",Indie
+1251,Marvel vs. Capcom: Infinite,3.0,3,134,135,213,1565,73,854,Action,"0,0,0,1,0",Indie
+1252,Space Channel 5: Part 2,4.0,4,37,38,346,7261,78,854,Action,"0,0,0,1,0",Action
+1253,The Ball,3.0,3,62,62,704,4086,68,853,Indie,"0,0,1,1,0",Adventure
+1257,Medal of Honor: Airborne,4.0,4,196,196,642,5201,78,852,Shooter,"0,1,0,1,0",Shooter
+1259,WildStar,3.0,4,103,103,586,2032,82,851,Massively Multiplayer,"0,0,0,0,1",Massively Multiplayer
+1266,Call of Duty: Advanced Warfare - Gold Edition,3.0,4,136,136,621,2616,78,846,Action,"0,0,0,1,0",Action
+1271,Still Life,4.0,4,91,92,632,6107,75,843,Adventure,"0,0,1,1,0",Adventure
+1272,Painkiller Redemption,3.0,4,53,53,633,3963,43,842,Shooter,"0,1,0,1,0",Shooter
+1273,The Legend of Heroes: Trails in the Sky,4.0,5,92,92,481,5544,85,842,RPG,"0,0,0,0,1",RPG
+1276,Fallen Enchantress: Legendary Heroes,3.0,4,32,33,628,3146,80,841,Strategy,"0,0,0,0,1",Strategy
+1278,Blackguards 2,3.0,3,38,38,684,2538,74,841,Indie,"0,0,1,0,1",Indie
+1281,Sam & Max: Episode 201 - Ice Station Santa,3.0,4,39,39,337,5167,82,836,Adventure,"0,0,1,0,0",Adventure
+1287,WWE 2K Battlegrounds,2.0,3,30,31,327,470,58,832,Action,"0,0,0,1,0",Action
+1289,Emily is Away Too,4.0,4,89,90,127,1681,81,832,Adventure,"0,0,1,0,1",Indie
+1291,Phoenix Wright: Ace Attorney Trilogy,4.0,5,172,173,174,3138,80,829,Adventure,"0,0,1,0,0",Indie
+1301,Tom Clancy's Ghost Recon: Future Soldier,4.0,4,125,125,1059,3511,71,819,Shooter,"0,1,0,1,0",Shooter
+1307,F1 RACE STARS,3.0,3,57,57,416,3336,62,811,Family,"1,0,0,0,0",Racing
+1312,Ape Out,4.0,4,252,258,210,1038,84,809,Indie,"0,0,0,1,0",Indie
+1316,Rise of the Triad,3.0,3,56,60,647,3076,67,806,Shooter,"0,1,0,1,0",Shooter
+1319,Jurassic Park: The Game,3.0,3,72,72,579,3700,54,806,Adventure,"0,0,1,1,0",Adventure
+1324,Batman: Arkham Origins,4.0,4,1220,1231,582,2999,74,5870,Adventure,"0,0,1,1,0",Adventure
+1330,Undertale,4.0,5,1308,1330,124,2301,92,5771,Indie,"0,0,0,0,1",Strategy
+1333,Assassin’s Creed III,4.0,4,1620,1629,453,3350,80,5705,Action,"0,0,0,1,0",Action
+1337,Hitman 2,4.0,4,905,910,290,1145,83,5659,Shooter,"0,1,0,1,0",Shooter
+1341,Battlefield 1,4.0,4,1487,1497,620,1898,88,5577,Shooter,"0,1,0,1,0",Shooter
+1342,Assassin's Creed Origins,4.0,4,1523,1543,323,1527,81,5574,Action,"0,0,0,1,1",Action
+1343,Shadowrun Returns,4.0,4,575,576,573,3083,76,5569,Strategy,"0,0,0,0,1",Strategy
+1345,Far Cry 4,4.0,4,1355,1368,502,2601,80,5474,Shooter,"0,1,0,0,0",Shooter
+1349,Sekiro: Shadows Die Twice,4.0,5,1452,1478,421,1016,90,5442,Action,"0,0,0,1,1",Action
+1350,Killing Floor,3.0,4,676,677,586,4615,72,5428,Action,"0,0,0,1,0",Action
+1352,Thief,3.0,3,972,974,664,2867,70,5410,Adventure,"0,0,1,1,0",Adventure
+1358,Lara Croft and the Temple of Osiris,3.0,4,509,510,650,2581,73,5347,Adventure,"0,0,1,1,0",Adventure
+1365,Costume Quest 2,4.0,4,86,86,428,2643,68,796,Casual,"0,0,1,1,1",Indie
+1372,Rusty Lake: Roots,4.0,4,105,107,308,1900,75,794,Indie,"0,0,1,0,0",Indie
+1375,Battlefield 2042,3.0,3,46,49,364,50,65,793,Casual,"0,1,1,1,0",Shooter
+1383,King's Bounty: Dark Side,4.0,4,71,71,589,2697,73,789,Strategy,"0,0,1,0,1",Indie
+1387,Orbital Gear,3.0,3,44,44,378,2704,59,784,Indie,"0,0,0,1,0",Indie
+1388,Going Under,4.0,4,32,33,184,464,78,784,Indie,"0,0,0,1,0",Action
+1393,Fallen Earth Free2Play,2.0,1,41,41,656,3601,71,782,Massively Multiplayer,"0,0,0,0,1",Strategy
+1402,Foul Play,3.0,3,109,111,404,3027,69,777,Casual,"0,0,1,1,0",Indie
+1407,Tales of Vesperia: Definitive Edition,4.0,4,117,118,481,1087,81,772,RPG,"0,0,0,0,1",RPG
+1408,Tower Wars,2.0,3,51,51,455,3427,59,770,Strategy,"0,0,0,1,0",Strategy
+1409,FAR: Lone Sails,4.0,4,201,206,290,1326,84,770,Indie,"0,0,1,1,0",Adventure
+1412,Dungeon Fighter Online,3.0,1,53,55,494,1971,78,770,Massively Multiplayer,"0,0,1,1,1",Indie
+1414,SimplePlanes,3.0,3,26,26,295,2579,67,767,Educational,"0,0,0,0,0",Strategy
+1419,ArcaniA: Fall of Setarrif,2.0,3,50,50,601,3723,41,764,Action,"0,0,0,1,1",Action
+1420,Song of Horror,4.0,4,15,17,524,794,73,763,Adventure,"0,0,1,0,0",Indie
+1421,Super House of Dead Ninjas,4.0,4,59,60,212,3239,79,763,Indie,"0,0,0,1,0",Indie
+1425,Lethal League Blaze,4.0,5,48,49,229,1165,82,761,Indie,"0,0,0,1,0",Indie
+1431,BlazBlue: Chrono Phantasma EXTEND,4.0,4,39,39,554,2445,82,754,Arcade,"0,0,0,1,0",Action
+1432,Aliens: Colonial Marines Collection,3.0,3,91,92,687,3246,45,754,Action,"0,0,0,1,0",Action
+1436,Cloudpunk,4.0,4,63,66,284,618,65,751,Indie,"0,0,1,0,0",Indie
+1437,Audiosurf 2,4.0,4,146,147,344,2412,76,750,Indie,"0,0,0,0,0",Strategy
+1438,Painkiller: Resurrection,3.0,4,50,50,527,4449,38,749,Action,"0,0,0,1,0",Action
+1441,JumpJet Rex,3.0,4,36,36,188,2447,76,746,Racing,"1,0,1,1,0",Indie
+1446,Primordia,4.0,5,60,61,478,3315,72,743,Indie,"0,0,1,0,1",Indie
+1447,League of Legends,4.0,4,400,407,499,4449,78,743,Strategy,"0,0,0,1,1",Action
+1454,Orwell: Ignorance is Strength,4.0,4,55,56,215,1410,74,739,Indie,"0,0,1,0,0",Indie
+1456,Halcyon 6: Starbase Commander,3.0,3,34,34,464,1941,71,732,Strategy,"0,0,0,0,1",Strategy
+1457,CastleStorm,3.0,3,58,58,574,3139,73,732,Strategy,"0,0,0,1,0",Action
+1462,Infested Planet,3.0,4,38,38,349,3105,75,730,Strategy,"0,0,0,1,0",Indie
+1464,The Lion's Song: Episode 1 - Silence,3.0,4,42,42,479,2004,78,729,Indie,"0,0,1,0,0",Indie
+1470,The Sinking City,3.0,3,168,169,240,921,69,726,Adventure,"0,0,1,1,0",Adventure
+1471,Ashen,4.0,4,161,166,659,1121,77,724,Adventure,"0,0,1,1,1",Adventure
+1476,Holy Potatoes! A Weapon Shop?!,3.0,4,39,40,411,2365,69,723,Indie,"0,0,0,1,1",Indie
+1477,Sniper Ghost Warrior Contracts,3.0,4,47,48,314,772,57,722,Shooter,"0,1,0,1,0",Shooter
+1479,Lonely Mountains: Downhill,4.0,4,118,120,313,801,81,721,Racing,"1,0,0,0,0",Racing
+1481,Muse Dash,4.0,4,59,62,245,1297,73,721,Casual,"0,0,0,1,0",Indie
+1482,Dropsy,3.0,4,48,48,449,2306,80,720,Indie,"0,0,1,0,0",Indie
+1485,Agatha Christie - The ABC Murders,3.0,3,57,57,711,2159,67,719,Adventure,"0,0,1,1,0",Adventure
+1490,Yuppie Psycho,4.0,5,59,60,208,982,81,714,Indie,"0,0,1,0,0",Indie
+1491,Depth,3.0,4,82,83,500,2616,65,713,Indie,"0,0,0,1,0",Action
+1494,Anomaly Defenders,3.0,4,22,22,641,2775,70,711,Strategy,"0,0,0,1,0",Action
+1496,Insurgency: Sandstorm,4.0,4,117,117,307,1116,79,710,Shooter,"0,1,0,1,0",Shooter
+1500,Scarlet Nexus,4.0,4,53,55,1052,190,79,706,Adventure,"0,0,1,1,1",Adventure
+1502,DISTRAINT: Deluxe Edition,3.0,4,87,87,158,2264,73,705,Adventure,"0,0,1,0,0",Indie
+1503,Whispering Willows,3.0,3,67,67,272,3077,64,705,Indie,"0,0,1,0,0",Indie
+1505,DeadCore,3.0,4,64,64,561,2633,78,704,Shooter,"0,1,0,1,0",Shooter
+1509,INK,3.0,3,48,48,117,2341,68,703,Indie,"0,0,1,1,0",Indie
+1511,Year Walk,4.0,4,83,86,245,3236,87,702,Indie,"0,0,1,0,1",Indie
+1512,Drake Hollow,4.0,4,29,30,123,457,75,702,Indie,"0,0,1,1,0",Indie
+1516,Bleed 2,3.0,4,28,30,329,1788,83,698,Indie,"0,0,0,1,0",Indie
+1518,She Remembered Caterpillars,3.0,4,29,29,414,1810,82,698,Indie,"0,0,0,0,0",Strategy
+1523,Turmoil,3.0,4,63,63,236,2040,73,692,Strategy,"0,0,0,0,0",Strategy
+1524,GUN,4.0,4,184,184,446,5901,76,692,Adventure,"0,0,1,1,0",Adventure
+1525,Dark Sector,3.0,3,114,115,717,5114,66,691,Shooter,"0,1,0,1,0",Shooter
+1530,Spacecom,2.0,1,11,11,239,2664,68,688,Strategy,"0,0,0,1,0",Indie
+1535,Disciples II: Gallean's Return,4.0,5,111,112,597,5658,84,686,Strategy,"0,0,0,0,0",Strategy
+1536,Disciples II: Rise of the Elves,4.0,5,122,122,461,5658,80,685,Strategy,"0,0,0,0,0",Strategy
+1539,Dead Effect,3.0,3,45,45,563,3244,59,683,Indie,"0,0,1,1,0",Adventure
+1546,Halo Wars: Definitive Edition,4.0,4,120,121,512,1717,81,681,Strategy,"0,0,0,0,0",Strategy
+1548,SKYHILL,3.0,3,62,62,310,2280,63,679,Adventure,"0,0,1,1,1",Indie
+1549,Giana Sisters: Twisted Dreams - Rise of the Owlverlord,3.0,4,29,29,526,3019,84,677,Indie,"0,0,0,1,0",Action
+1550,PLANET ALPHA,4.0,4,47,47,187,1216,71,677,Indie,"0,0,1,1,0",Indie
+1553,IL-2 Sturmovik: 1946,3.0,4,39,39,336,5497,86,676,Simulation,"0,0,0,0,0",Strategy
+1556,Event[0],4.0,4,62,63,344,1936,75,674,Indie,"0,0,1,0,0",Indie
+1564,The Witcher 2: Assassins of Kings,4.0,5,368,372,566,3882,88,664,RPG,"0,0,0,0,1",RPG
+1569,Citizens of Earth,3.0,3,27,27,295,2538,66,661,RPG,"0,0,0,0,1",Strategy
+1574,Afterparty,4.0,4,68,72,259,795,74,658,Indie,"0,0,1,0,0",Indie
+1578,Monster Hunter World: Iceborne,4.0,5,123,126,305,848,89,651,Massively Multiplayer,"0,0,0,1,1",Action
+1580,MouseCraft,2.0,1,68,68,350,2734,72,650,Adventure,"0,0,1,1,0",Indie
+1582,Conflict: Denied Ops,3.0,3,39,39,729,5076,58,649,Shooter,"0,1,0,1,0",Shooter
+1583,The Curse of Monkey Island,4.0,5,177,177,474,8828,89,648,Adventure,"0,0,1,0,0",Adventure
+1584,Descenders,3.0,4,84,84,278,970,76,648,Racing,"1,0,0,1,0",Racing
+1590,PRO EVOLUTION SOCCER 2019,3.0,4,172,173,188,1222,80,645,Simulation,"0,0,0,0,0",Strategy
+1601,Tales of Monkey Island Complete Pack,4.0,4,40,40,332,4561,79,637,Adventure,"0,0,1,0,0",Adventure
+1603,Friday the 13th: Killer Puzzle,3.0,4,82,82,261,1442,78,637,Casual,"0,0,0,0,0",Strategy
+1606,Minoria,4.0,4,19,20,208,858,73,635,Indie,"0,0,1,1,1",Indie
+1610,Odallus: The Dark Call,4.0,4,30,30,431,2363,80,632,Indie,"0,0,1,1,0",Indie
+1614,Champions Online,2.0,1,36,36,618,3854,72,630,Massively Multiplayer,"0,0,0,0,1",Strategy
+1616,Dangerous Golf,3.0,3,33,33,486,2039,54,628,Action,"0,0,0,1,0",Action
+1620,Wizardry 8,4.0,5,50,50,417,7353,85,626,Adventure,"0,0,1,0,1",Adventure
+1622,Legends of Eisenwald,3.0,3,44,44,502,2376,71,625,Indie,"0,0,1,0,1",Indie
+1632,Death to Spies,4.0,4,55,55,498,5192,69,613,Adventure,"0,0,1,1,0",Adventure
+1634,Technobabylon,4.0,4,41,41,480,2418,82,611,Indie,"0,0,1,0,1",Indie
+1639,SEUM: Speedrunners from Hell,4.0,4,42,42,465,1984,77,607,Shooter,"0,1,1,1,0",Shooter
+1646,Frontlines: Fuel of War,3.0,3,58,58,648,5059,73,603,Shooter,"0,1,0,1,0",Shooter
+1647,Need for Speed: Hot Pursuit Remastered,4.0,4,38,40,294,421,75,603,Action,"0,0,0,1,0",Indie
+1652,Florence,4.0,4,199,207,51,1418,86,601,Adventure,"0,0,1,0,0",Indie
+1654,Death's Door,4.0,4,66,70,353,165,87,599,Indie,"0,0,1,1,1",Indie
+1656,F1 2012,4.0,4,41,41,258,3392,80,598,Racing,"1,0,0,0,0",Racing
+1662,Dicey Dungeons,4.0,4,77,79,205,873,84,596,Strategy,"0,0,0,0,0",Strategy
+1667,Tony Hawk’s Pro Skater HD,4.0,4,83,83,222,3454,66,592,Sports,"0,0,0,0,0",Strategy
+1669,SABLE,4.0,4,40,41,296,100,74,591,Indie,"0,0,1,1,0",Indie
+1678,TRON: Evolution - The Video Game,3.0,3,93,93,518,4054,57,587,Racing,"1,1,1,1,0",Shooter
+1681,Dragon Quest Builders 2,4.0,5,71,71,199,904,85,585,Adventure,"0,0,1,1,1",Indie
+1683,Violett Remastered,3.0,3,21,21,556,2941,61,584,Indie,"0,0,1,0,0",Indie
+1684,TrackMania² Stadium,4.0,4,63,63,301,3117,77,584,Racing,"1,0,0,0,0",Racing
+1685,Pneuma: Breath of Life,3.0,3,77,78,442,2500,63,583,Indie,"0,0,1,0,0",Indie
+1688,Motorsport Manager,4.0,4,75,75,427,2690,81,582,Racing,"1,0,0,0,0",Racing
+1693,Curse of the Dead Gods,4.0,4,62,62,451,312,81,580,Adventure,"0,0,1,1,1",Adventure
+1696,Blood,4.0,5,126,126,470,9066,82,579,Shooter,"0,1,0,1,0",Shooter
+1701,Deadfall Adventures,3.0,3,59,59,637,2970,53,577,Adventure,"0,0,1,1,0",Adventure
+1702,POSTAL Redux,3.0,3,49,49,540,2052,54,576,Shooter,"0,1,0,1,0",Shooter
+1707,Moss,4.0,4,81,83,511,1404,83,572,Indie,"0,0,1,1,0",Indie
+1714,The Disney Afternoon Collection,4.0,4,75,75,246,1719,77,567,Action,"0,0,0,1,0",Indie
+1715,World to the West,3.0,1,22,22,356,1703,75,566,Adventure,"0,0,1,1,1",Indie
+1718,Carrier Command: Gaea Mission,2.0,3,13,13,541,3382,53,566,Strategy,"0,0,0,1,0",Indie
+1719,The End Is Nigh,4.0,4,99,99,164,1634,83,565,Indie,"0,0,1,1,0",Indie
+1725,MIND: Path to Thalamus Enhanced Edition,3.0,3,33,33,450,2706,75,560,Indie,"0,0,1,0,0",Indie
+1726,Valdis Story: Abyssal City,3.0,4,39,40,472,3038,83,560,Adventure,"0,0,1,1,1",Adventure
+1733,Port Royale 3,3.0,3,30,30,639,3618,55,555,Strategy,"0,0,0,1,0",Indie
+1736,Persona 5 Strikers,4.0,5,60,64,482,681,80,555,Adventure,"0,0,1,1,1",Adventure
+1738,Runaway 3: A Twist of Fate,4.0,4,45,45,505,4639,79,554,Adventure,"0,0,1,1,0",Adventure
+1739,Primal Carnage,3.0,3,31,32,382,3351,67,554,Indie,"0,0,0,1,0",Indie
+1746,Struggling,4.0,5,8,8,191,492,65,551,Casual,"0,0,1,1,0",Indie
+1748,Flat Heroes,3.0,4,38,38,54,1941,82,550,Platformer,"0,0,0,1,0",Indie
+1750,Forgotton Anne,4.0,4,75,80,396,1328,80,549,Casual,"0,0,1,1,0",Indie
+1751,Batman: Arkham VR,4.0,4,93,94,408,1908,74,548,Adventure,"0,0,1,1,0",Indie
+1754,Agony,2.0,1,76,78,433,1313,39,547,Indie,"0,0,1,1,0",Indie
+1755,Nightmares from the Deep: The Cursed Heart,3.0,4,35,35,511,3545,58,546,Casual,"0,0,1,0,0",Indie
+1757,Chivalry: Medieval Warfare,3.0,4,670,674,665,3364,79,5315,Indie,"0,0,0,1,0",Action
+1759,XCOM 2,4.0,4,1017,1028,657,2158,88,5301,Strategy,"0,0,0,0,1",Strategy
+1761,Call of Duty: Black Ops,4.0,4,1395,1404,700,4071,81,5289,Shooter,"0,1,0,1,0",Shooter
+1763,DiRT Rally,4.0,4,535,536,414,2217,86,5266,Racing,"1,0,0,0,0",Racing
+1764,Wolfenstein II: The New Colossus,4.0,4,1354,1371,609,1529,86,5265,Shooter,"0,1,0,1,0",Shooter
+1765,War Thunder,3.0,4,720,720,518,3061,81,5264,Shooter,"0,1,0,1,0",Shooter
+1772,The Binding of Isaac,4.0,4,890,899,167,3748,84,5123,Indie,"0,0,0,1,1",Indie
+1774,Grim Fandango Remastered,4.0,5,765,769,553,2532,84,5080,Adventure,"0,0,1,0,0",Adventure
+1775,DmC: Devil May Cry,4.0,4,1207,1217,622,3273,85,5072,Action,"0,0,0,1,0",Action
+1777,Star Wars: Knights of the Old Republic,4.0,5,1131,1135,531,6745,88,5061,Action,"0,0,0,1,1",Action
+1780,Homefront,3.0,3,620,625,636,3946,70,5029,Shooter,"0,1,0,1,0",Shooter
+1781,"Papers, Please",4.0,5,1264,1272,235,3068,85,5026,Indie,"0,0,0,0,0",Indie
+1785,Assassin's Creed Unity,4.0,4,1248,1263,485,2608,71,4916,Action,"0,0,0,1,0",Action
+1788,Kingdom Come: Deliverance,4.0,4,983,998,639,1418,71,4892,Adventure,"0,0,1,1,1",Adventure
+1791,Metro Exodus,4.0,4,1079,1099,619,1053,81,4870,Shooter,"0,1,0,1,0",Shooter
+1793,This War of Mine,4.0,4,929,933,499,2606,83,4853,Indie,"0,0,1,0,0",Adventure
+1795,Goat Simulator,3.0,3,915,919,477,2832,62,4831,Casual,"0,0,0,1,0",Action
+1804,Rez Infinite,4.0,5,80,82,432,1906,91,544,Casual,"0,0,0,1,0",Indie
+1808,Bone: The Great Cow Race,2.0,1,16,16,161,4946,76,542,Adventure,"0,0,1,0,0",Adventure
+1809,ICEY,3.0,4,75,76,427,1871,84,541,Indie,"0,0,1,1,1",Indie
+1813,Haven,4.0,4,76,76,226,394,75,540,Adventure,"0,0,1,0,1",Indie
+1816,Assassin’s Creed Chronicles: India,3.0,4,93,95,597,2181,63,539,Adventure,"0,0,1,1,0",Adventure
+1822,Space Run,3.0,4,17,18,328,2759,73,534,Strategy,"0,0,0,0,0",Strategy
+1824,Analogue: A Hate Story,4.0,4,34,35,124,3622,62,534,Indie,"0,0,0,0,0",Strategy
+1836,Nether: Resurrected,2.0,1,39,39,636,2767,57,530,Action,"0,0,0,1,1",Action
+1843,Monster Energy Supercross - The Official Videogame,2.0,1,89,90,477,1418,68,526,Racing,"1,0,0,0,0",Racing
+1847,Nexuiz,3.0,3,34,34,316,3523,54,523,Action,"0,0,0,1,0",Indie
+1859,Death Road to Canada,4.0,4,56,61,390,1991,91,515,Indie,"0,0,1,1,1",Indie
+1861,Diaries of a Spaceport Janitor,3.0,4,28,28,291,1933,69,514,Adventure,"0,0,1,0,1",Indie
+1863,Chaser,3.0,4,55,57,499,6764,66,513,Shooter,"0,1,1,1,0",Shooter
+1864,Hover: Revolt Of Gamers,3.0,4,24,24,482,2462,69,513,Racing,"1,0,1,1,0",Indie
+1866,Thunder Wolves,2.0,1,21,21,343,3167,69,512,Casual,"0,1,0,1,0",Shooter
+1871,PGA TOUR 2K21,4.0,3,16,17,196,498,75,508,Simulation,"0,0,0,0,0",Strategy
+1880,We Are The Dwarves,3.0,3,25,25,556,2143,60,503,Indie,"0,0,1,1,1",Indie
+1881,Dungeon Souls,3.0,4,33,33,351,1857,67,503,Indie,"0,0,1,1,1",Indie
+1885,Rayman Raving Rabbids,4.0,4,146,147,439,5527,58,500,Family,"0,0,1,1,0",Adventure
+1892,Bulb Boy,3.0,3,31,32,313,2257,84,496,Indie,"0,0,1,0,0",Indie
+1893,Might & Magic X - Legacy,3.0,3,53,53,668,2901,70,496,RPG,"0,0,0,0,1",RPG
+1894,Hunted: The Demon’s Forge,3.0,3,56,56,626,3868,61,496,Adventure,"0,0,1,1,0",Adventure
+1900,BlazeRush,4.0,4,41,42,547,2622,66,492,Racing,"1,0,0,1,0",Shooter
+1904,Effie,4.0,3,8,8,259,942,68,490,Casual,"0,0,1,1,0",Indie
+1906,Chronology,3.0,4,19,19,256,2792,70,490,Indie,"0,0,1,0,0",Indie
+1909,LEGO Pirates of the Caribbean: The Video Game,4.0,4,99,99,626,3889,73,487,Family,"0,0,1,1,0",Adventure
+1919,Cubemen,3.0,3,23,23,239,3578,74,479,Indie,"0,0,0,1,0",Indie
+1920,Ash of Gods,4.0,4,71,72,553,1380,65,478,Adventure,"0,0,1,1,1",Indie
+1923,Cut the Rope,4.0,4,140,141,140,4107,93,477,Casual,"0,0,0,0,0",Strategy
+1924,Tokyo 42,3.0,4,44,44,321,1677,71,477,Indie,"0,0,1,1,0",Indie
+1925,Disco Elysium: Final Cut,5.0,5,146,147,211,808,90,477,RPG,"0,0,0,0,1",RPG
+1927,AI: The Somnium Files,4.0,5,66,67,228,837,83,475,Adventure,"0,0,1,0,0",Indie
+1932,The Jackbox Party Pack 6,4.0,4,65,65,214,807,75,473,Casual,"0,0,0,0,0",Strategy
+1934,God Mode,3.0,3,29,29,456,3179,58,471,Shooter,"0,1,0,1,0",Shooter
+1937,Crazy Machines 2,3.0,3,24,25,389,5192,72,470,Casual,"0,0,0,0,0",Strategy
+1939,Peggle Nights,4.0,4,47,47,209,4855,76,469,Casual,"0,0,0,0,0",Strategy
+1942,Doom 64,4.0,4,61,62,355,9042,76,468,Shooter,"0,1,0,1,0",Shooter
+1955,The Baconing,4.0,4,30,30,583,3776,63,461,Adventure,"0,0,1,1,1",Adventure
+1956,Lucius II,3.0,3,37,37,417,2514,48,461,Indie,"0,0,1,1,0",Indie
+1965,Crusader Kings Complete,3.0,4,18,18,313,6463,73,456,Strategy,"0,0,0,0,0",Strategy
+1969,Ninja Senki DX,3.0,3,59,59,264,2139,72,455,Indie,"0,0,0,1,0",Indie
+1970,Burn Zombie Burn!,2.0,3,24,24,411,4664,72,455,Shooter,"0,1,0,1,0",Shooter
+1974,Scourge: Outbreak,3.0,3,16,16,681,3140,40,454,Shooter,"0,1,0,1,0",Shooter
+1991,Scribblenauts Unmasked: A DC Comics Adventure,4.0,4,56,56,351,3021,68,448,Casual,"0,0,1,1,0",Indie
+1994,SiN Episodes: Emergence,4.0,4,54,54,288,5715,75,446,Shooter,"0,1,0,1,0",Shooter
+1998,Breach,2.0,1,38,38,676,3993,59,443,Shooter,"0,1,0,1,1",Shooter
+2004,Summoner,3.0,4,17,17,593,7738,78,440,Action,"0,0,0,1,1",Action
+2005,Age of Wonders Shadow Magic,4.0,4,29,29,531,6735,82,440,Strategy,"0,0,0,0,1",Strategy
+2006,Dangerous High School Girls in Trouble!,2.0,1,14,14,374,4695,81,438,Casual,"0,0,0,0,1",Strategy
+2007,Iron Grip: Warlord,2.0,3,15,15,554,4803,59,438,Indie,"0,0,0,1,0",Indie
+2008,Out There: Omega Edition,4.0,4,40,40,368,2865,80,438,Shooter,"0,1,1,0,1",Indie
+2016,Brothers in Arms: Road to Hill 30,4.0,4,88,88,497,6137,87,435,Action,"0,0,0,1,0",Action
+2017,The Book of Unwritten Tales 2,3.0,4,43,43,586,2507,80,434,Adventure,"0,0,1,1,0",Adventure
+2018,Super Rude Bear Resurrection,2.0,3,16,16,537,1705,78,434,Indie,"0,0,0,1,0",Action
+2023,Life is Feudal: Your Own,3.0,3,42,44,468,2237,63,431,Indie,"0,0,0,1,1",Indie
+2025,Super Splatters,2.0,3,13,13,209,3111,73,430,Casual,"0,0,0,1,0",Indie
+2026,RAD,3.0,3,39,40,503,865,72,428,Action,"0,0,0,1,0",Action
+2031,Majesty 2,4.0,4,42,42,300,4489,72,427,Strategy,"0,0,0,0,0",Strategy
+2032,Men of War: Vietnam,3.0,4,15,15,541,3769,68,427,Strategy,"0,0,0,0,0",Strategy
+2034,BLACKHOLE,2.0,1,25,25,446,2500,82,426,Adventure,"0,0,1,1,0",Indie
+2037,Football Manager 2020,4.0,4,80,80,70,782,84,424,Simulation,"0,0,0,0,0",Casual
+2040,Immortal Planet,2.0,1,15,15,230,1619,65,423,Indie,"0,0,1,1,1",Indie
+2044,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,4.0,4,81,82,411,2669,61,420,Adventure,"0,0,1,1,0",Indie
+2045,Plain Sight,2.0,3,17,17,341,4289,76,420,Indie,"0,0,0,1,0",Indie
+2050,Devil May Cry 2,2.0,1,178,183,271,6916,59,419,Action,"0,0,0,1,0",Action
+2052,Penarium,3.0,4,14,16,258,2293,80,418,Casual,"0,0,0,1,0",Indie
+2053,Black Book,4.0,4,36,36,230,144,78,418,Indie,"0,0,1,0,1",Indie
+2056,Pandemic: The Board Game,3.0,4,24,25,319,3012,83,416,Strategy,"0,0,0,0,0",Strategy
+2067,Doc Clock: The Toasted Sandwich of Time,3.0,3,12,12,331,4099,62,409,Adventure,"0,0,1,1,0",Adventure
+2075,Carcassonne,4.0,4,38,39,361,4229,63,406,Action,"0,0,0,1,0",Action
+2079,Rain on Your Parade,4.0,4,44,45,370,261,78,405,Casual,"0,0,1,1,0",Indie
+2081,99Vidas,3.0,3,84,84,458,1836,69,405,Indie,"0,0,0,1,0",Indie
+2089,Concrete Jungle,4.0,4,25,25,285,2292,76,401,Strategy,"0,0,0,0,0",Strategy
+2090,Call of Juarez: The Cartel,3.0,3,98,99,527,3879,51,401,Shooter,"0,1,1,1,0",Shooter
+2091,Takedown: Red Sabre,2.0,1,25,25,482,3025,34,400,Shooter,"0,1,0,1,0",Shooter
+2092,Fly'N,3.0,3,19,19,426,3340,80,400,Indie,"0,0,1,1,0",Indie
+2093,FOTONICA,4.0,4,27,28,215,2669,71,399,Casual,"0,0,0,1,0",Casual
+2097,Ninja Pizza Girl,3.0,4,17,17,193,2285,82,398,Educational,"0,0,0,1,1",Indie
+2098,Party Hard 2,4.0,4,42,43,344,1165,70,397,Adventure,"0,0,1,1,0",Indie
+2103,Theatre of War 2: Africa 1943,3.0,4,15,15,482,4194,63,396,Strategy,"0,0,0,0,0",Strategy
+2104,The Forgotten City,4.0,4,49,49,246,157,87,395,Indie,"0,0,1,1,1",Indie
+2105,Armikrog,3.0,3,59,59,380,2286,57,395,Indie,"0,0,1,0,0",Indie
+2106,TrackMania² Canyon,4.0,4,44,44,445,3762,81,395,Racing,"1,0,0,0,0",Racing
+2109,Dream Pinball 3D,2.0,1,9,9,424,5603,61,392,Casual,"0,0,0,1,0",Casual
+2113,Mata Hari,3.0,3,10,10,593,4789,63,389,Adventure,"0,0,1,0,0",Adventure
+2115,"Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",3.0,5,20,20,378,8079,80,389,Adventure,"0,0,1,0,0",Adventure
+2119,I Expect You To Die,4.0,4,57,57,457,1845,76,387,Indie,"0,0,0,0,0",Strategy
+2121,Grand Ages: Rome,3.0,3,11,11,531,4692,72,387,Strategy,"0,0,0,0,0",Strategy
+2127,Anno 1404,4.0,5,100,100,554,4573,82,385,Strategy,"0,0,0,0,0",Strategy
+2138,Uurnog Uurnlimited,2.0,1,10,10,278,1507,74,380,Platformer,"0,0,0,1,0",Action
+2150,Angry Video Game Nerd Adventures,4.0,4,41,42,349,3025,77,375,Indie,"0,0,1,1,0",Indie
+2157,Skyward Collapse,3.0,3,7,7,478,3145,64,371,Strategy,"0,0,0,0,0",Strategy
+2162,Trover saves the Universe,4.0,4,56,58,389,946,78,369,Indie,"0,0,1,1,0",Indie
+2165,Railroad Tycoon 3,3.0,3,14,14,450,6646,80,367,Strategy,"0,0,0,0,0",Strategy
+2169,Eidolon,3.0,3,13,13,270,2710,64,366,Indie,"0,0,1,0,0",Indie
+2172,Sword of the Stars: Complete Collection,3.0,3,15,15,359,4839,75,365,Strategy,"0,0,0,0,0",Strategy
+2177,Shattered Haven,2.0,3,7,7,361,3212,59,361,Indie,"0,0,1,1,0",Indie
+2178,Unruly Heroes,4.0,4,52,53,354,1074,77,361,Adventure,"0,0,1,1,0",Indie
+2179,Men of War: Condemned Heroes,3.0,4,15,15,445,3564,57,361,Strategy,"0,0,0,1,0",Casual
+2182,Tetrobot and Co.,4.0,5,11,11,204,3000,72,359,Action,"0,0,0,1,0",Action
+2183,Tron 2.0,4.0,4,59,60,413,6708,84,359,Action,"0,0,0,1,0",Action
+2185,99 Levels To Hell,3.0,3,14,14,305,3232,66,358,Shooter,"0,1,0,1,0",Shooter
+2191,The Masterplan,3.0,3,12,12,411,2404,68,356,Strategy,"0,0,0,1,0",Indie
+2194,Tom Clancy's Rainbow Six 3 Gold,4.0,4,26,26,444,4846,85,353,Action,"0,0,0,1,0",Action
+2199,Beyond: Two Souls,4.0,4,1339,1351,495,3007,73,4818,Adventure,"0,0,1,1,0",Adventure
+2200,Battlefield 4,4.0,4,1165,1173,644,2986,81,4787,Shooter,"0,1,0,1,0",Shooter
+2203,The Walking Dead: Season 2,4.0,4,1131,1136,630,2938,80,4755,Adventure,"0,0,1,1,0",Adventure
+2208,PAYDAY The Heist,3.0,4,628,630,564,3728,76,4698,Shooter,"0,1,0,1,0",Shooter
+2212,A Story About My Uncle,3.0,4,511,516,487,2776,73,4654,Adventure,"0,0,1,0,0",Indie
+2215,Overcooked,4.0,4,1098,1105,325,1979,81,4620,Casual,"0,0,0,0,0",Strategy
+2219,Dead Cells,4.0,4,1195,1213,374,1243,88,4582,Platformer,"0,0,0,1,1",Action
+2224,Divinity: Original Sin 2,4.0,5,1119,1136,315,1570,95,4554,Strategy,"0,0,0,0,1",Strategy
+2226,To the Moon,4.0,5,869,877,330,4009,81,4546,Indie,"0,0,1,0,1",Indie
+2228,Resident Evil 6,3.0,4,947,957,628,3378,67,4541,Shooter,"0,1,1,1,0",Shooter
+2231,SUPERHOT,4.0,4,1127,1145,173,2138,82,4470,Shooter,"0,1,0,1,0",Shooter
+2233,Devil May Cry 5,4.0,5,1152,1174,459,1030,88,4447,Action,"0,0,0,1,0",Action
+2239,Platformines,2.0,1,12,12,372,2836,67,352,Indie,"0,0,0,1,0",Action
+2248,ECHO,4.0,4,48,49,536,2192,76,347,Indie,"0,0,1,1,1",Indie
+2254,Star Trek: Bridge Crew,4.0,4,37,37,254,1827,75,345,Casual,"0,0,0,0,1",Strategy
+2258,Richard & Alice,4.0,4,15,15,185,3237,70,344,Indie,"0,0,1,0,0",Indie
+2262,Geometry Wars: Retro Evolved,4.0,4,32,32,317,5414,76,342,Casual,"0,0,0,0,0",Casual
+2264,The Last Door: Season 2 - Collector's Edition,3.0,4,26,26,286,2104,85,342,Adventure,"0,0,1,0,0",Indie
+2266,Extreme Exorcism,3.0,3,51,52,458,2292,75,341,Casual,"0,0,1,1,0",Indie
+2270,The Artful Escape,4.0,5,37,39,184,114,80,340,Indie,"0,0,1,1,0",Indie
+2273,Blacksad: Under the Skin,4.0,4,78,81,433,788,63,339,Adventure,"0,0,1,0,0",Adventure
+2274,Nidhogg 2,4.0,4,88,90,258,1600,80,338,Casual,"0,0,0,1,0",Action
+2275,Skul: The Hero Slayer,3.0,3,47,47,274,345,80,338,Indie,"0,0,0,1,0",Indie
+2277,The Long Journey Home,3.0,3,14,16,415,1677,68,337,Adventure,"0,0,1,1,1",Indie
+2278,Monster Slayers,3.0,4,12,12,274,1745,86,337,Indie,"0,0,0,1,1",Action
+2288,Turbo Dismount,4.0,4,43,43,203,2782,85,333,Indie,"0,0,0,1,0",Indie
+2292,Black Mirror III,3.0,4,42,43,474,3910,75,331,Adventure,"0,0,1,0,0",Adventure
+2296,Original War,4.0,4,15,15,522,7506,61,329,Strategy,"0,0,0,0,0",Strategy
+2302,Full Spectrum Warrior,3.0,4,17,17,566,6424,80,328,Strategy,"0,0,0,1,0",Action
+2303,Transport Fever,4.0,4,51,52,442,1881,71,327,Strategy,"0,0,0,0,0",Strategy
+2305,Darkstar One,3.0,3,21,21,422,5623,71,327,Action,"0,0,0,1,0",Action
+2310,Pathfinder: Wrath of the Righteous,4.0,5,30,31,188,121,83,324,RPG,"0,0,0,0,1",RPG
+2311,Rise of Flight United,3.0,4,10,10,346,3040,77,324,Simulation,"0,0,0,0,0",Strategy
+2314,MDK 2,4.0,4,67,68,429,7887,83,323,Action,"0,0,0,1,0",Action
+2315,Dark Devotion,3.0,3,34,35,259,982,70,322,Indie,"0,0,1,1,1",Indie
+2323,The Park,3.0,3,50,51,550,2259,67,318,Adventure,"0,0,1,0,0",Indie
+2324,Desktop Dungeons,3.0,4,26,26,409,2977,82,318,Adventure,"0,0,1,0,1",Indie
+2325,Pirate Pop Plus,2.0,1,8,8,202,1899,65,318,Casual,"0,0,0,1,0",Indie
+2329,Konung 2,4.0,4,15,15,459,6909,35,317,Strategy,"0,0,1,0,1",Adventure
+2330,Road 96,4.0,4,50,51,502,138,77,316,Indie,"0,0,1,1,0",Indie
+2332,Strike Vector,3.0,3,17,17,574,2895,73,316,Indie,"0,0,0,1,0",Indie
+2337,Nostradamus: The Last Prophecy,4.0,5,15,15,480,2809,70,315,Casual,"0,0,1,0,0",Indie
+2340,CLANNAD,4.0,5,36,36,380,2231,83,314,Casual,"0,0,1,0,0",Indie
+2341,Youtubers Life,3.0,3,52,52,333,1794,63,313,Strategy,"0,0,0,0,0",Strategy
+2344,Dark Fall 2: Lights Out,3.0,4,9,9,462,6340,66,312,Adventure,"0,0,1,0,0",Adventure
+2349,Battlefleet Gothic: Armada,4.0,4,28,28,444,2082,77,311,Strategy,"0,0,0,0,0",Strategy
+2354,You Must Build A Boat,4.0,4,40,40,158,2403,71,309,Action,"0,0,0,1,1",Action
+2358,Stellar Impact,2.0,3,11,11,477,3802,74,308,Strategy,"0,0,0,1,0",Strategy
+2359,Bus Driver,3.0,3,33,34,251,5399,61,308,Indie,"0,0,0,0,0",Strategy
+2367,Elemental: Fallen Enchantress,3.0,1,10,10,559,3357,78,304,Strategy,"0,0,0,0,1",Strategy
+2368,Choplifter HD,3.0,3,21,21,571,3664,65,304,Shooter,"0,1,1,1,0",Shooter
+2371,"Warhammer 40,000: Regicide",3.0,4,25,27,637,2307,72,303,Strategy,"0,0,0,1,0",Action
+2374,Timespinner,4.0,4,60,62,229,1195,78,302,Indie,"0,0,1,1,1",Indie
+2377,Pilgrims,4.0,4,81,82,291,818,78,301,Casual,"0,0,1,0,0",Indie
+2383,Rhiannon: Curse of the Four Branches,3.0,3,7,7,313,2788,67,299,Indie,"0,0,1,0,0",Indie
+2387,SteamWorld Quest: Hand of Gilgamech,4.0,4,60,61,549,982,81,298,Card,"0,0,1,1,1",Indie
+2388,Ragnarok Online,4.0,5,48,49,410,2984,79,298,Massively Multiplayer,"0,0,0,0,1",RPG
+2390,Blade Kitten,4.0,4,23,25,582,4120,52,297,Adventure,"0,0,1,1,0",Adventure
+2393,Montague's Mount,3.0,3,14,14,314,3007,39,297,Indie,"0,0,1,0,0",Indie
+2398,Tom Clancy's Ghost Recon: Desert Siege,4.0,4,20,20,546,7221,82,295,Shooter,"0,1,0,1,0",Shooter
+2401,Zenith,3.0,3,21,21,612,1930,57,294,Indie,"0,0,1,1,1",Indie
+2407,ZHEROS,2.0,3,33,33,456,2178,58,293,Indie,"0,0,0,1,0",Action
+2408,Redshirt,2.0,1,12,13,304,3082,62,292,Adventure,"0,0,1,0,1",Indie
+2409,Police Stories,3.0,4,35,35,154,836,71,292,Shooter,"0,1,0,1,0",Shooter
+2410,The Pathless,4.0,4,56,58,565,415,78,292,Indie,"0,0,1,1,0",Indie
+2412,Gumboy - Crazy Adventures,2.0,1,10,10,329,5638,69,291,Casual,"0,0,0,0,0",Strategy
+2420,Yaiba: Ninja Gaiden Z,3.0,4,37,37,681,2865,49,288,Adventure,"0,0,1,1,0",Adventure
+2423,Sword Coast Legends,3.0,4,29,29,616,2266,61,286,Action,"0,0,0,1,1",Action
+2427,The Last Federation,2.0,1,8,8,425,2816,72,285,Strategy,"0,0,0,0,0",Strategy
+2429,Encased: a sci-fi post-apocalyptic RPG,4.0,4,12,14,407,116,73,284,Strategy,"0,0,1,1,1",Indie
+2430,SkateBIRD,2.0,1,19,20,186,107,59,283,Racing,"1,0,0,0,0",Racing
+2431,Iratus: Lord of the Dead,4.0,4,41,44,527,1276,78,283,Strategy,"0,0,0,0,1",Strategy
+2432,Zombie Vikings,3.0,4,29,29,566,2314,74,283,Adventure,"0,0,1,1,0",Adventure
+2434,Joe Dever's Lone Wolf HD Remastered,4.0,3,14,14,597,2592,78,282,Indie,"0,0,1,1,1",Indie
+2439,Football Manager 2019,4.0,4,114,114,194,1156,86,281,Simulation,"0,0,0,0,0",Strategy
+2440,StarDrive,3.0,3,11,11,434,3172,61,281,Strategy,"0,0,0,0,0",Strategy
+2445,Madballs in Babo:Invasion,3.0,3,11,11,586,4489,79,279,Indie,"0,0,0,0,0",Strategy
+2446,Dead State: Reanimated,3.0,1,18,18,379,2586,70,279,Strategy,"0,0,0,0,1",Strategy
+2451,Seraph,3.0,4,19,19,401,1929,80,276,Action,"0,0,0,1,0",Action
+2453,Fate of the World,3.0,4,15,15,368,3960,70,274,Casual,"0,0,0,0,0",Strategy
+2454,The Invisible Hours,4.0,4,16,17,189,1544,76,273,Casual,"0,0,1,0,0",Indie
+2461,Chronicles of Mystery: The Scorpio Ritual,2.0,3,13,13,509,4799,62,270,Adventure,"0,0,1,0,0",Adventure
+2468,Knights And Bikes,3.0,4,34,34,325,858,80,269,Indie,"0,0,1,1,0",Indie
+2470,Yakuza 5 Remastered,4.0,4,17,18,149,690,82,269,Action,"0,0,0,1,0",Action
+2476,The Room Four: Old Sins,4.0,5,52,54,868,1437,86,268,Adventure,"0,0,1,0,0",Indie
+2477,Air Conflicts: Secret Wars,3.0,4,9,9,402,3837,65,268,Shooter,"0,1,0,1,0",Shooter
+2483,Parkitect,4.0,4,37,37,455,2067,83,264,Indie,"0,0,0,0,0",Strategy
+2485,Cloudberry Kingdom,3.0,4,39,39,311,3077,67,263,Platformer,"0,0,0,0,0",Strategy
+2487,Qbeh-1: The Atlas Cube,3.0,4,11,11,272,2788,72,263,Casual,"0,0,1,0,0",Indie
+2490,Dark Fall 3: Lost Souls,3.0,3,12,12,420,4412,75,263,Indie,"0,0,1,0,0",Adventure
+2493,Football Manager 2017,4.0,4,66,66,263,1885,80,260,Simulation,"0,0,0,0,0",Strategy
+2497,FlatOut 4: Total Insanity,3.0,3,29,29,558,1733,52,259,Racing,"1,0,0,0,0",Racing
+2499,THE WONDERFUL 101: REMASTERED,4.0,4,27,28,278,592,78,258,Adventure,"0,0,1,1,0",Indie
+2500,10 Second Ninja,3.0,3,21,21,82,2859,72,258,Indie,"0,0,0,1,0",Action
+2501,Kingsway,4.0,4,21,23,181,1629,79,258,Adventure,"0,0,1,0,1",Indie
+2506,Star Renegades,3.0,4,19,20,535,480,74,257,Strategy,"0,0,0,0,1",Strategy
+2508,NEON STRUCT,3.0,4,10,10,146,2418,62,256,Indie,"0,0,0,1,0",Indie
+2511,Unity of Command: Stalingrad Campaign,3.0,4,10,10,430,3363,84,255,Strategy,"0,0,0,0,0",Strategy
+2512,Nexus - The Jupiter Incident,3.0,4,18,18,444,6266,77,254,Strategy,"0,0,0,0,0",Strategy
+2515,Daylight,3.0,3,34,34,409,2804,51,253,Casual,"0,0,1,1,0",Indie
+2522,Pacific Storm,3.0,4,7,7,360,4939,67,251,Strategy,"0,0,0,0,0",Strategy
+2524,Woolfe - The Red Hood Diaries,3.0,3,23,23,450,2482,55,250,Indie,"0,0,1,1,0",Indie
+2526,Half Minute Hero: The Second Coming,3.0,3,10,10,382,2829,79,249,Indie,"0,0,0,1,1",Indie
+2534,NeverEnd,2.0,1,10,10,93,1780,44,247,Indie,"0,0,1,0,0",Indie
+2545,Monster Hunter Rise,4.0,5,40,44,357,281,88,245,Action,"0,0,0,1,1",Action
+2547,Kaptain Brawe: A Brawe New World,3.0,4,12,12,565,4079,69,245,Adventure,"0,0,1,0,0",Adventure
+2552,Dragon Saga,3.0,4,19,19,295,2202,65,243,Massively Multiplayer,"0,0,0,0,0",Strategy
+2556,Until You Fall,4.0,4,16,16,526,459,86,241,Indie,"0,0,1,1,0",Indie
+2559,Albert and Otto,3.0,4,11,12,226,2257,69,240,Indie,"0,0,1,0,0",Indie
+2560,Monster Boy and the Cursed Kingdom,4.0,4,48,49,529,1124,85,240,Indie,"0,0,1,1,0",Indie
+2562,Solasta: Crown of the Magister,3.0,4,21,22,316,219,77,239,Strategy,"0,0,1,0,1",Indie
+2565,Warlock 2: The Exiled,3.0,3,17,17,555,2823,73,238,Strategy,"0,0,0,0,0",Strategy
+2568,Pirates of Black Cove,3.0,3,7,7,505,3805,56,236,Strategy,"0,0,0,0,0",Strategy
+2570,TRI: Of Friendship and Madness,3.0,4,9,9,290,2642,74,236,Indie,"0,0,1,0,0",Indie
+2571,The Franz Kafka Videogame,3.0,3,27,27,266,1731,65,235,Indie,"0,0,1,0,0",Indie
+2573,Masquerada: Songs and Shadows,3.0,5,9,9,504,1920,64,234,Indie,"0,0,0,1,1",Indie
+2574,Dawn of Man,4.0,4,44,45,446,1038,74,234,Strategy,"0,0,0,0,0",Strategy
+2576,Medieval: Total War - Collection,4.0,5,15,15,381,2382,88,233,Strategy,"0,0,0,1,0",Action
+2578,7 Wonders II,3.0,4,5,6,344,5254,60,233,Casual,"0,0,0,0,0",Strategy
+2579,Sinking Island,4.0,4,19,19,526,5203,68,233,Adventure,"0,0,1,0,0",Adventure
+2580,Space Empires IV Deluxe,3.0,3,7,7,339,5906,79,232,Strategy,"0,0,0,0,0",Strategy
+2588,Airline Tycoon 2,2.0,1,8,8,456,3742,57,230,Strategy,"0,0,0,0,0",Strategy
+2590,PixelJunk Nom Nom Galaxy,3.0,4,10,10,385,2343,68,230,Casual,"0,0,0,1,0",Indie
+2591,"That Dragon, Cancer",4.0,4,37,38,232,2182,78,230,Indie,"0,0,1,0,0",Indie
+2593,Starlink: Battle for Atlas,4.0,4,36,38,369,1173,74,229,Adventure,"0,0,1,1,0",Indie
+2596,Atelier Ryza: Ever Darkness & the Secret Hideout,3.0,4,18,18,292,798,78,229,Adventure,"0,0,1,0,1",Indie
+2603,Spate,3.0,3,10,10,271,2837,61,226,Indie,"0,0,1,1,0",Indie
+2606,CRYPTARK,4.0,4,13,14,473,2278,80,225,Shooter,"0,1,1,1,0",Shooter
+2611,The Legend of Heroes: Trails in the Sky SC,4.0,5,44,44,414,2257,80,223,RPG,"0,0,0,0,1",RPG
+2613,Trackmania United Forever Star Edition,4.0,5,20,20,408,5008,80,222,Racing,"1,0,0,0,0",Racing
+2616,Sherlock Holmes: Chapter One,3.0,4,6,6,468,47,75,221,Adventure,"0,0,1,1,0",Indie
+2619,Tropico 4,4.0,4,427,427,523,3783,78,4373,Strategy,"0,0,0,0,0",Strategy
+2622,Race Driver: Grid,4.0,4,419,420,396,4960,87,4362,Racing,"1,0,0,0,0",Racing
+2623,Braid,4.0,5,823,831,523,4896,92,4352,Action,"0,0,0,1,0",Action
+2626,Mark of the Ninja,4.0,4,650,658,490,3403,91,4325,Platformer,"0,0,0,1,0",Platformer
+2631,Star Wars: Battlefront II (2017),4.0,4,1008,1020,574,1506,74,4289,Shooter,"0,1,1,1,0",Shooter
+2634,Surviving Mars,4.0,4,303,304,263,1389,75,4263,Strategy,"0,0,0,0,0",Strategy
+2637,Dying Light: The Following - Enhanced Edition,4.0,4,730,733,678,2532,87,4233,Action,"0,0,0,1,1",Action
+2640,Child of Light,4.0,4,811,816,625,2804,77,4187,Indie,"0,0,0,0,1",Strategy
+2642,Hacknet,3.0,4,387,390,183,2335,82,4160,Indie,"0,0,0,0,0",Strategy
+2645,SMITE,3.0,3,604,604,615,2327,83,4139,Action,"0,0,0,1,0",Action
+2647,Euro Truck Simulator 2,4.0,4,611,612,437,3361,79,4136,Indie,"0,0,0,0,0",Strategy
+2648,Black Desert Online,3.0,3,376,377,591,2588,73,4131,Adventure,"0,0,1,1,1",Adventure
+2651,Wolfenstein: The Old Blood,4.0,4,867,874,662,2434,76,4115,Shooter,"0,1,0,1,0",Shooter
+2653,Metal Gear Rising: Revengeance,4.0,4,862,865,627,3238,83,4086,Action,"0,0,0,1,0",Action
+2655,Tales from the Borderlands,4.0,5,929,935,650,2264,85,4066,Adventure,"0,0,1,0,0",Adventure
+2657,Pineview Drive,3.0,3,10,10,458,2711,58,220,Indie,"0,0,1,1,0",Indie
+2659,The Charnel House Trilogy,4.0,4,16,16,160,2452,68,220,Indie,"0,0,1,0,0",Indie
+2662,Theatre of War 3: Korea,4.0,4,9,9,527,4054,49,219,Strategy,"0,0,0,0,0",Strategy
+2666,Block'hood,3.0,4,21,21,292,2124,77,218,Strategy,"0,0,0,0,0",Strategy
+2670,MISSING: An Interactive Thriller - Episode One,3.0,4,17,17,285,2413,63,215,Indie,"0,0,1,0,0",Indie
+2674,Gloomhaven,4.0,4,9,10,294,899,79,215,Strategy,"0,0,1,0,1",Indie
+2676,NBA 2K Playgrounds 2,3.0,3,29,30,510,1173,68,215,Sports,"0,0,0,0,0",Strategy
+2677,Total War Saga: TROY,4.0,4,36,38,284,506,75,213,Strategy,"0,0,0,1,0",Action
+2684,Shadow Puppeteer,3.0,4,9,10,469,2651,57,212,Indie,"0,0,1,0,0",Indie
+2689,Total War Saga: Thrones of Britannia,4.0,4,27,31,415,1339,75,210,Strategy,"0,0,0,1,0",Action
+2692,Football Manager 2021,4.0,5,36,36,143,404,82,209,Strategy,"0,0,0,0,0",Casual
+2697,Madden NFL 21,2.0,1,18,20,452,494,65,208,Strategy,"0,0,0,0,0",Strategy
+2707,Tribes of Midgard,4.0,4,8,8,458,158,73,205,Indie,"0,0,1,1,0",Indie
+2709,STAR WARS Episode I Racer,4.0,4,17,17,399,1142,66,204,Racing,"1,0,0,1,0",Racing
+2715,The Next Penelope,3.0,4,10,10,317,2409,82,201,Racing,"1,0,0,1,0",Racing
+2722,Leap of Fate,3.0,4,13,14,515,2103,80,199,Action,"0,0,0,1,1",Action
+2726,Sky Force Reloaded,4.0,4,41,41,450,2087,78,198,Shooter,"0,1,0,1,0",Shooter
+2729,Overfall,3.0,4,7,7,522,2056,71,196,Strategy,"0,0,0,0,1",Strategy
+2732,Shu,3.0,3,10,10,337,1915,85,195,Indie,"0,0,1,1,0",Indie
+2733,Where is my Heart?,3.0,4,10,10,169,3707,74,195,Adventure,"0,0,1,1,0",Indie
+2742,Shardlight,4.0,4,21,21,426,2126,75,191,Indie,"0,0,1,0,1",Indie
+2743,The Fidelio Incident,3.0,4,23,24,404,1684,69,191,Indie,"0,0,1,0,0",Indie
+2746,Attack on Titan 2,4.0,4,38,38,600,1389,75,190,Action,"0,0,0,1,0",Action
+2753,Blitzkrieg 3,4.0,4,21,21,664,2432,68,188,Strategy,"0,0,0,0,0",Strategy
+2759,RIDE,3.0,3,15,15,392,2472,68,187,Racing,"1,0,0,0,0",Racing
+2760,Fenix Rage,2.0,1,9,9,241,2656,75,187,Indie,"0,0,1,1,0",Indie
+2764,Encodya,4.0,4,7,7,351,340,66,187,Adventure,"0,0,1,0,0",Indie
+2771,Mega Man X Legacy Collection 2,4.0,5,22,24,349,1257,62,185,Action,"0,0,0,1,0",Action
+2773,Feudal Alloy,3.0,3,24,25,223,1081,76,184,Indie,"0,0,0,1,1",Indie
+2787,Delta Force: Land Warrior,3.0,4,17,19,311,7725,74,179,Action,"0,0,0,1,0",Action
+2788,Bientôt l'été,2.0,1,12,12,528,3307,62,179,Casual,"0,0,1,0,0",Indie
+2791,Littlewood,4.0,4,28,28,80,515,81,179,Casual,"0,0,1,0,1",Indie
+2792,The Cursed Crusade,2.0,3,23,24,677,3739,55,179,Adventure,"0,0,1,1,0",Adventure
+2793,Calvino Noir,4.0,4,9,9,322,2321,55,179,Indie,"0,0,1,1,0",Indie
+2794,Cannon Fodder 3,3.0,3,10,10,465,3666,49,178,Action,"0,0,0,1,0",Action
+2795,Operation: Tango,4.0,4,26,27,270,214,73,178,Casual,"0,0,1,1,0",Indie
+2799,Sea Dogs,4.0,4,49,50,409,7708,71,177,Action,"0,0,0,1,1",Indie
+2800,The Guest,4.0,4,10,10,339,2124,68,177,Indie,"0,0,1,0,0",Indie
+2801,Myst V: End of Ages,4.0,3,16,16,405,6135,80,177,Casual,"0,0,1,0,0",Adventure
+2803,Commander: Conquest of the Americas,2.0,3,7,7,470,4173,68,176,Strategy,"0,0,0,0,0",Strategy
+2804,Delta Force: Task Force Dagger,3.0,4,20,21,393,7129,51,176,Action,"0,0,0,1,0",Action
+2808,Alwa's Awakening,3.0,4,9,10,348,1794,71,175,Indie,"0,0,1,0,0",Indie
+2810,Surge,4.0,4,6,6,108,2056,77,174,Indie,"0,0,1,1,0",Indie
+2815,Grandia II Anniversary Edition,4.0,4,17,17,335,2322,80,174,RPG,"0,0,0,0,1",RPG
+2817,Bad Bots,2.0,3,6,6,215,3151,49,173,Indie,"0,0,0,1,0",Indie
+2825,Antihero,3.0,4,23,23,141,1637,81,170,Strategy,"0,0,0,0,0",Casual
+2826,Sébastien Loeb Rally EVO,3.0,3,13,13,376,2164,67,170,Racing,"1,0,0,0,0",Racing
+2831,Pumpkin Jack,4.0,4,23,23,282,435,76,168,Indie,"0,0,1,1,0",Indie
+2844,The Survivalists,3.0,4,22,22,173,449,72,164,Indie,"0,0,1,1,0",Indie
+2845,Audioshield,4.0,4,18,18,298,2097,81,163,Indie,"0,0,0,0,0",Strategy
+2848,OVIVO,4.0,4,15,15,176,1695,71,163,Adventure,"0,0,1,1,0",Indie
+2854,ONE PIECE World Seeker,3.0,3,24,25,540,1024,54,161,Adventure,"0,0,1,1,0",Indie
+2861,Grand Ages: Medieval,3.0,3,14,14,533,2291,63,160,Strategy,"0,0,0,0,1",RPG
+2863,Immortal: Unchained,3.0,3,27,27,222,1212,54,160,Adventure,"0,0,1,1,1",Indie
+2872,Silver Chains,3.0,4,11,11,216,879,51,156,Indie,"0,0,1,0,0",Indie
+2876,The Legend of Heroes: Trails in the Sky the 3rd,4.0,5,24,24,490,5301,83,155,RPG,"0,0,0,0,1",RPG
+2881,Croixleur Sigma,3.0,3,10,10,440,2803,56,153,Indie,"0,0,0,1,0",Indie
+2885,Windbound,3.0,3,21,22,153,492,63,151,Indie,"0,0,1,0,1",Indie
+2887,Apsulov: End of Gods,4.0,4,18,18,386,877,71,150,Indie,"0,0,1,1,0",Indie
+2890,Delta Force: Xtreme,3.0,4,14,14,508,6074,65,149,Action,"0,0,0,1,0",Action
+2892,Iron Warriors: T - 72 Tank Command,3.0,3,6,6,220,5648,56,149,Strategy,"0,0,0,0,0",Strategy
+2900,Prey - Mooncrash,4.0,4,44,47,363,1300,79,147,Adventure,"0,0,1,1,0",Adventure
+2904,Lust from Beyond,3.0,4,18,18,372,296,61,146,Indie,"0,0,1,1,0",Indie
+2917,The Great Ace Attorney Chronicles,5.0,5,8,9,233,158,84,142,Adventure,"0,0,1,0,0",Indie
+2918,Use Your Words,4.0,4,21,21,245,1734,74,142,Casual,"0,0,0,0,0",Casual
+2924,Shantae and the Seven Sirens,4.0,4,21,22,82,584,76,140,Platformer,"0,0,1,0,0",Indie
+2925,Flynn: Son of Crimson,4.0,4,8,8,390,108,84,140,Indie,"0,0,1,1,0",Indie
+2933,Wasteland Remastered,3.0,3,12,12,79,677,62,138,Strategy,"0,0,0,0,1",RPG
+2934,Sunset,4.0,4,15,15,317,2417,66,138,Casual,"0,0,1,0,0",Indie
+2936,Alone With You,3.0,4,12,12,437,1957,75,137,Casual,"0,0,1,0,0",Indie
+2938,Blood II: The Chosen + Expansion,4.0,4,12,12,248,2728,72,137,Adventure,"0,0,1,1,0",Indie
+2939,Shadows: Heretic Kingdoms,3.0,3,14,14,591,2606,74,137,Indie,"0,0,0,1,1",Action
+2942,Muv-Luv,4.0,4,14,14,474,6882,76,137,Casual,"0,0,1,0,0",Adventure
+2943,Exo One,4.0,4,12,13,187,44,78,136,Indie,"0,0,1,0,0",Indie
+2944,Leaving Lyndow,3.0,4,15,16,291,1788,74,136,Indie,"0,0,1,0,0",Indie
+2949,When The Past Was Around,4.0,4,16,17,179,467,77,135,Casual,"0,0,1,0,0",Indie
+2955,Loki,3.0,3,14,14,594,5202,61,132,RPG,"0,0,0,0,1",RPG
+2957,Ys IX: Monstrum Nox,3.0,4,6,6,357,330,78,131,Adventure,"0,0,1,1,1",Adventure
+2958,Rebel Galaxy Outlaw,4.0,4,18,18,445,872,80,130,Adventure,"0,0,1,1,1",Adventure
+2962,Secret Files 3,4.0,4,8,8,418,3397,67,130,Adventure,"0,0,1,0,0",Indie
+2965,Rogue Trooper Redux,4.0,4,22,22,570,1537,60,129,Arcade,"0,1,1,1,0",Shooter
+2967,Four Last Things,4.0,4,9,9,542,1773,83,128,Indie,"0,0,1,0,0",Indie
+2975,KALIMBA,4.0,4,9,10,285,2572,81,125,Casual,"0,0,0,1,0",Indie
+2977,Parkasaurus,3.0,4,13,14,201,506,70,125,Simulation,"0,0,0,0,0",Simulation
+2982,The Quiet Man,2.0,1,30,31,559,1157,34,124,Adventure,"0,0,1,1,0",Indie
+2983,Eldest Souls,4.0,4,12,13,296,156,78,124,Indie,"0,0,1,1,0",Indie
+2987,Herald: An Interactive Period Drama - Book I & II,2.0,1,8,8,478,1775,77,123,Indie,"0,0,1,0,0",Indie
+2988,MechWarrior 5: Mercenaries,3.0,4,15,16,280,753,73,123,Shooter,"0,1,0,1,0",Shooter
+2995,StarDrive 2,3.0,3,9,9,409,2459,70,121,Strategy,"0,0,0,0,0",Strategy
+2999,A Monster's Expedition,4.0,5,11,11,130,478,92,120,Adventure,"0,0,1,0,0",Indie
+3002,Prison Architect,4.0,4,428,428,351,2280,83,4051,Strategy,"0,0,0,0,0",Strategy
+3005,Serious Sam 3: BFE,4.0,4,571,575,578,3693,72,4025,Shooter,"0,1,0,1,0",Shooter
+3007,The Binding of Isaac: Rebirth,4.0,5,867,875,215,2615,86,4010,Action,"0,0,0,1,1",Indie
+3008,The Evil Within,4.0,4,855,862,609,2638,68,4008,Shooter,"0,1,1,1,0",Shooter
+3013,Ori and the Will of the Wisps,4.0,5,731,746,419,662,91,3950,Platformer,"0,0,1,1,0",Adventure
+3018,A Way Out,4.0,4,1052,1076,474,1380,78,3898,Indie,"0,0,1,1,0",Adventure
+3030,Burnout Paradise: The Ultimate Box,4.0,4,549,554,415,4713,87,3836,Racing,"1,0,0,0,0",Racing
+3032,Max Payne,4.0,5,1408,1420,450,7467,89,3830,Shooter,"0,1,0,1,0",Shooter
+3038,Valiant Hearts: The Great War,4.0,5,1023,1028,513,2748,80,3806,Adventure,"0,0,1,0,1",Shooter
+3042,Ground Control Anthology,4.0,4,15,15,424,7886,86,119,Strategy,"0,0,0,0,0",Strategy
+3045,Travis Strikes Again: No More Heroes,4.0,4,29,30,254,1079,65,119,Action,"0,0,0,1,0",Action
+3052,Dark Souls III: The Ringed City,5.0,5,51,52,236,1740,83,118,Action,"0,0,0,1,1",Indie
+3056,Captain Tsubasa: Rise of New Champions,4.0,4,18,19,468,492,72,116,Casual,"0,0,0,1,1",Indie
+3059,Clandestine,4.0,3,8,8,441,2249,69,116,Indie,"0,0,0,1,0",Indie
+3061,DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition,4.0,4,9,10,403,827,91,115,Adventure,"0,0,1,0,1",Indie
+3062,Evochron Mercenary,3.0,4,7,7,463,3638,70,114,Indie,"0,0,0,1,0",Indie
+3063,LEGO Builder’s Journey,4.0,4,22,22,134,744,78,114,Casual,"0,0,1,0,0",Indie
+3064,Serious Sam's Bogus Detour,3.0,4,10,10,443,1656,76,114,Indie,"0,0,1,1,0",Indie
+3070,Syndrome,2.0,1,6,6,438,1913,56,112,Adventure,"0,0,1,1,0",Indie
+3072,DYNASTY WARRIORS 9,3.0,1,19,21,384,1423,65,111,Adventure,"0,0,1,1,0",Indie
+3074,The Elder Scrolls V: Skyrim - Hearthfire,4.0,3,53,53,349,3406,62,111,RPG,"0,0,0,0,1",RPG
+3078,The Moment of Silence,3.0,3,13,13,415,6302,70,108,Indie,"0,0,1,0,0",Adventure
+3079,RISK: Factions,4.0,4,8,8,282,4210,77,108,Strategy,"0,0,0,0,0",Strategy
+3080,Xpand Rally,3.0,4,9,9,326,5609,82,108,Racing,"1,0,0,0,0",Racing
+3085,OVERKILL's The Walking Dead,2.0,1,37,37,363,1152,51,106,Action,"0,0,0,1,0",Action
+3091,Fallout 3: Broken Steel,4.0,4,59,60,639,4624,81,104,Action,"0,0,0,1,1",Action
+3094,Wild Guns Reloaded,4.0,5,10,10,520,1838,77,104,Action,"0,0,0,1,0",Action
+3095,Mundaun,4.0,5,20,20,391,292,73,104,Indie,"0,0,1,1,0",Indie
+3098,The Golf Club 2,4.0,4,12,12,204,1649,72,104,Simulation,"0,0,0,0,0",Casual
+3101,Journal,4.0,3,10,10,155,2875,59,103,Indie,"0,0,1,0,0",Indie
+3104,Act of War: Direct Action,4.0,4,10,10,455,6575,82,102,Action,"0,0,0,1,0",Action
+3109,Danger Zone,2.0,3,15,15,339,1678,64,99,Action,"0,0,0,1,0",Action
+3110,Shady Part of Me,4.0,5,14,14,307,387,77,99,Indie,"0,0,1,0,0",Indie
+3112,Vector Thrust,3.0,4,7,7,381,2375,57,99,Indie,"0,0,0,1,0",Indie
+3118,Transcripted,3.0,5,6,6,335,1572,78,98,Casual,"0,1,0,1,0",Shooter
+3128,IL-2 Sturmovik: Battle of Stalingrad,4.0,5,6,6,469,2657,74,95,Simulation,"0,0,0,0,0",Strategy
+3136,AO Tennis 2,3.0,4,17,17,217,723,67,94,Sports,"0,0,0,0,0",Casual
+3143,Nancy Drew: Curse of Blackmoor Manor,4.0,4,12,12,548,6302,81,91,Adventure,"0,0,1,0,0",Adventure
+3151,Nickelodeon All-Star Brawl,4.0,4,5,7,81,88,67,89,Action,"0,0,0,1,0",Indie
+3153,Ancestors Legacy,4.0,4,22,25,707,1320,73,88,Strategy,"0,0,0,0,0",Strategy
+3156,Viking Squad,4.0,4,15,15,321,1915,69,88,Indie,"0,0,1,1,0",Indie
+3160,Super Meat Boy Forever,2.0,1,17,20,335,374,68,87,Platformer,"0,0,0,1,0",Action
+3162,Circa Infinity,3.0,4,8,8,105,2307,80,86,Indie,"0,0,0,1,0",Indie
+3164,Kohan II: Kings of War,4.0,4,6,6,560,6311,81,86,Strategy,"0,0,0,0,0",Strategy
+3170,Stairs,3.0,4,7,7,291,2287,65,84,Arcade,"0,0,1,1,0",Indie
+3177,Regalia: Of Men and Monarchs,4.0,4,9,10,434,1689,73,83,Strategy,"0,0,0,0,1",Strategy
+3178,IL-2 Sturmovik: Cliffs of Dover,4.0,5,6,6,212,3935,60,83,Simulation,"0,0,0,0,0",Strategy
+3181,Chronos: Before the Ashes,3.0,3,10,12,194,396,68,82,Adventure,"0,0,1,1,0",Indie
+3182,RollerCoaster Tycoon World,3.0,1,10,10,502,1872,43,81,Strategy,"0,0,0,0,0",Strategy
+3184,Pagan Online,3.0,3,11,13,531,858,64,81,Action,"0,0,0,1,1",Indie
+3189,KURSK,3.0,1,13,13,489,1151,42,78,Adventure,"0,0,1,1,0",Indie
+3196,Trials of Fire,4.0,4,8,8,260,268,83,75,Strategy,"0,0,0,0,1",RPG
+3201,Fast & Furious Crossroads,1.0,1,14,14,286,514,39,73,Racing,"1,0,0,1,0",Racing
+3202,Dakar 18,3.0,4,11,12,195,1194,55,72,Racing,"1,0,0,0,0",Racing
+3204,Boomerang X,4.0,4,6,7,303,177,80,71,Indie,"0,0,0,1,0",Indie
+3207,The Colonists,4.0,4,15,15,329,1514,77,71,Strategy,"0,0,0,0,0",Strategy
+3208,Greak: Memories of Azur,4.0,4,10,10,491,138,69,70,Indie,"0,0,1,1,0",Indie
+3210,Hidden & Dangerous 2: Courage Under Fire,4.0,4,8,8,416,6648,75,69,Strategy,"0,0,0,1,0",Action
+3213,Birthdays the Beginning,2.0,3,6,6,359,1698,68,69,Strategy,"0,0,0,0,0",Strategy
+3217,Nancy Drew: Last Train to Blue Moon Canyon,4.0,4,12,12,461,5952,77,69,Adventure,"0,0,1,0,0",Adventure
+3223,Nancy Drew: Ransom of the Seven Ships,4.0,4,6,6,495,4554,78,67,Adventure,"0,0,1,0,0",Adventure
+3224,Nancy Drew: The Haunting of Castle Malloy,4.0,4,11,11,516,4833,81,67,Adventure,"0,0,1,0,0",Adventure
+3226,Nancy Drew: Danger by Design,4.0,4,11,11,443,5640,70,66,Adventure,"0,0,1,0,0",Adventure
+3227,Valthirian Arc: Hero School Story,3.0,3,7,7,266,1187,56,66,Adventure,"0,0,1,1,1",Indie
+3228,Darkest of Days,3.0,4,23,23,494,4498,51,66,Shooter,"0,1,0,1,0",Shooter
+3232,Azur Lane: Crosswave,3.0,1,5,6,556,688,60,65,Shooter,"0,1,1,1,1",Shooter
+3241,NASCAR Heat 3,3.0,3,8,8,232,1212,66,62,Racing,"1,0,0,0,0",Racing
+3246,Medieval II: Total War Kingdoms,4.0,5,15,15,626,5149,85,61,Strategy,"0,0,0,0,0",Strategy
+3249,Behind the Frame: The Finest Scenery,4.0,4,10,10,317,137,73,61,Casual,"0,0,1,0,0",Indie
+3250,rymdkapsel,4.0,4,8,8,84,3075,77,61,Strategy,"0,0,0,0,0",Casual
+3252,Army Men RTS,4.0,4,15,16,397,7220,67,60,Strategy,"0,0,0,1,0",Action
+3267,ZONE OF THE ENDERS: The 2nd Runner - M∀RS,4.0,5,14,14,548,1215,71,56,Action,"0,0,0,1,0",Action
+3268,Lifeline...,4.0,5,17,18,139,2448,77,56,Indie,"0,0,1,0,1",Indie
+3271,Code of Princess,2.0,1,7,7,475,3544,53,56,Adventure,"0,0,1,1,1",Adventure
+3272,AereA,3.0,3,12,12,452,1674,57,55,Indie,"0,0,1,1,1",Indie
+3273,A Juggler's Tale,4.0,4,8,10,414,94,74,55,Indie,"0,0,1,1,0",Indie
+3278,Ashes Cricket,3.0,4,10,10,323,1507,76,54,Indie,"0,0,0,0,0",Strategy
+3284,Fallout 3: Game of the Year Edition,4.0,4,706,708,626,4463,91,3746,Action,"0,0,0,1,1",Action
+3289,Assassin’s Creed Brotherhood,4.0,4,1189,1197,649,4064,88,3715,Adventure,"0,0,1,1,0",Adventure
+3292,F.E.A.R. 3,3.0,4,488,491,593,3935,74,3699,Shooter,"0,1,0,1,0",Shooter
+3293,Enter the Gungeon,4.0,4,784,792,270,2098,84,3678,Indie,"0,1,1,1,0",Indie
+3298,Mass Effect 3,4.0,5,1349,1356,659,3589,90,3627,Action,"0,0,0,1,1",Action
+3305,Sins of a Solar Empire: Rebellion,3.0,1,290,290,479,3490,82,3576,Strategy,"0,0,0,0,0",Strategy
+3309,Machinarium,4.0,4,675,679,515,4460,85,3546,Family,"0,0,1,0,0",Adventure
+3310,Divinity: Original Sin,4.0,4,605,606,569,2742,87,3541,Strategy,"0,0,0,0,1",Strategy
+3312,Satellite Reign,3.0,3,255,255,481,2319,75,3533,Strategy,"0,0,0,1,0",Indie
+3314,PlanetSide 2,3.0,3,405,405,595,3329,84,3514,Shooter,"0,1,0,1,0",Shooter
+3325,CALENDULA,3.0,4,12,12,158,2160,67,49,Indie,"0,0,0,0,0",Casual
+3328,Fallout 4: Nuka-World,3.0,4,19,20,336,1950,71,48,Shooter,"0,1,0,1,1",Indie
+3331,STORY OF SEASONS: Friends of Mineral Town,4.0,4,8,8,57,536,75,48,Casual,"0,0,0,0,1",RPG
+3333,Far Cry 5 - Lost On Mars,3.0,4,20,20,180,1264,61,47,Adventure,"0,0,1,1,0",Indie
+3340,King of Seas,3.0,3,6,6,386,221,66,44,Indie,"0,0,1,1,1",Indie
+3345,Total War: Shogun 2 - Fall of the Samurai,4.0,5,11,11,586,3572,86,40,Strategy,"0,0,0,0,0",Strategy
+3346,The Sims 3: Ambitions,4.0,4,19,19,553,4232,74,40,Strategy,"0,0,0,0,0",Strategy
+3350,The Coma: Cutting Class,4.0,4,6,6,246,2266,69,37,Indie,"0,0,1,0,0",Indie
+3351,Deadly Dozen,3.0,3,6,6,404,7368,56,36,Strategy,"0,0,0,1,0",Action
+3359,Railroad Corporation,4.0,5,7,7,489,775,55,31,Strategy,"0,0,0,0,0",Strategy
+3360,Nancy Drew: The Secret of Shadow Ranch,4.0,4,10,10,546,6333,68,31,Adventure,"0,0,1,0,0",Adventure
+3363,Pro Cycling Manager 2016,2.0,1,7,7,510,2025,64,30,Racing,"1,0,0,0,0",Racing
+3364,Robonauts,3.0,3,8,9,372,1879,71,29,Shooter,"0,1,1,1,0",Shooter
+3368,The Sims 3: Supernatural,4.0,4,13,13,582,3406,74,24,Strategy,"0,0,0,0,0",Strategy
+3369,Guild Wars Factions,4.0,4,9,9,631,4637,84,24,Massively Multiplayer,"0,0,0,0,1",Strategy
+3372,Guild Wars Nightfall,4.0,4,7,7,579,4637,84,21,Massively Multiplayer,"0,0,0,1,1",Action
+3373,Guild Wars: Eye of the North,4.0,4,6,6,503,4103,79,19,Massively Multiplayer,"0,0,0,1,1",Strategy
+3374,The Sims 3: Showtime,4.0,4,12,12,542,3588,67,19,Strategy,"0,0,0,0,0",Strategy
